@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="status" title="status" type="string"/>
+      <attribute id="pages_total" title="pages_total" type="integer"/>
+      <attribute id="undirected_degree" title="undirected_degree" type="integer"/>
+      <attribute id="crawling_status" title="crawling_status" type="string"/>
+      <attribute id="indegree" title="indegree" type="integer"/>
+      <attribute id="outdegree" title="outdegree" type="integer"/>
+      <attribute id="creation_date" title="creation_date" type="double"/>
+      <attribute id="indexing_status" title="indexing_status" type="string"/>
+      <attribute id="crawled" title="crawled" type="boolean"/>
+      <attribute id="last_modification_date" title="last_modification_date" type="double"/>
+      <attribute id="pages_crawled" title="pages_crawled" type="integer"/>
+      <attribute id="homepage" title="homepage" type="string"/>
+      <attribute id="name" title="name" type="string"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="count" title="count" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="Aegean.gr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="11152"/>
+          <attvalue for="undirected_degree" value="791"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="791"/>
+          <attvalue for="creation_date" value="1671004015135"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004065206"/>
+          <attvalue for="pages_crawled" value="1288"/>
+          <attvalue for="homepage" value="http://www.aegean.gr"/>
+          <attvalue for="name" value="Aegean.gr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="28.555469512939453" y="-49.75160598754883"/>
+      </node>
+      <node id="2" label="Aegeanegyptology.gr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="3"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1671004015244"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004065271"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="homepage" value="https://aegeanegyptology.gr"/>
+          <attvalue for="name" value="Aegeanegyptology.gr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="42.22285842895508" y="-72.6026611328125"/>
+      </node>
+      <node id="3" label="Archives-Ouvertes.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="45213"/>
+          <attvalue for="undirected_degree" value="121"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="5"/>
+          <attvalue for="outdegree" value="118"/>
+          <attvalue for="creation_date" value="1671004015252"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004065332"/>
+          <attvalue for="pages_crawled" value="168"/>
+          <attvalue for="homepage" value="https://hal.archives-ouvertes.fr"/>
+          <attvalue for="name" value="Archives-Ouvertes.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="12.94427190999916"/>
+        <viz:position x="-50.56020736694336" y="-13.668977737426758"/>
+      </node>
+      <node id="4" label="Bitg.ch">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="7"/>
+          <attvalue for="undirected_degree" value="2"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1671004015258"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004068847"/>
+          <attvalue for="pages_crawled" value="2"/>
+          <attvalue for="name" value="Bitg.ch"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="19.322235107421875" y="91.31216430664062"/>
+      </node>
+      <node id="5" label="Cnrs.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="3794"/>
+          <attvalue for="undirected_degree" value="241"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="6"/>
+          <attvalue for="outdegree" value="238"/>
+          <attvalue for="creation_date" value="1671004015263"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004068891"/>
+          <attvalue for="pages_crawled" value="416"/>
+          <attvalue for="homepage" value="http://www.cnrs.fr"/>
+          <attvalue for="name" value="Cnrs.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="13.797958971132712"/>
+        <viz:position x="-37.558929443359375" y="1.5301008224487305"/>
+      </node>
+      <node id="6" label="Cultural-Representation.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="37"/>
+          <attvalue for="undirected_degree" value="21"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="21"/>
+          <attvalue for="creation_date" value="1671004015270"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004068918"/>
+          <attvalue for="pages_crawled" value="8"/>
+          <attvalue for="homepage" value="http://www.cultural-representation.com"/>
+          <attvalue for="name" value="Cultural-Representation.com"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="39.01866149902344" y="-61.51332092285156"/>
+      </node>
+      <node id="7" label="Culturelab.gr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1671004016091"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004072587"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Culturelab.gr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="29.540367126464844" y="-73.29426574707031"/>
+      </node>
+      <node id="8" label="Egyptology-Bg.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="100"/>
+          <attvalue for="undirected_degree" value="9"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="9"/>
+          <attvalue for="creation_date" value="1671004016118"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004072643"/>
+          <attvalue for="pages_crawled" value="13"/>
+          <attvalue for="homepage" value="https://egyptology-bg.org"/>
+          <attvalue for="name" value="Egyptology-Bg.org"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="87.49930572509766" y="-5.972729682922363"/>
+      </node>
+      <node id="9" label="Fgz-Risc.de">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1031"/>
+          <attvalue for="undirected_degree" value="131"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="131"/>
+          <attvalue for="creation_date" value="1671004016176"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004072695"/>
+          <attvalue for="pages_crawled" value="262"/>
+          <attvalue for="homepage" value="https://www.fgz-risc.de"/>
+          <attvalue for="name" value="Fgz-Risc.de"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="32.84440994262695" y="73.69904327392578"/>
+      </node>
+      <node id="10" label="Google.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="488"/>
+          <attvalue for="undirected_degree" value="14"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="11"/>
+          <attvalue for="outdegree" value="4"/>
+          <attvalue for="creation_date" value="1671004016185"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004076225"/>
+          <attvalue for="pages_crawled" value="16"/>
+          <attvalue for="name" value="Google.com"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="17.2664991614216"/>
+        <viz:position x="16.731670379638672" y="1.0261708498001099"/>
+      </node>
+      <node id="11" label="Ladyss.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="434"/>
+          <attvalue for="undirected_degree" value="14"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="14"/>
+          <attvalue for="creation_date" value="1671004016223"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004076293"/>
+          <attvalue for="pages_crawled" value="138"/>
+          <attvalue for="homepage" value="https://www.ladyss.com/transversalites"/>
+          <attvalue for="name" value="Ladyss.com"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-63.43413162231445" y="-21.848684310913086"/>
+      </node>
+      <node id="12" label="Lutin-Userlab.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="101"/>
+          <attvalue for="undirected_degree" value="55"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="55"/>
+          <attvalue for="creation_date" value="1671004016239"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004076361"/>
+          <attvalue for="pages_crawled" value="16"/>
+          <attvalue for="name" value="Lutin-Userlab.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-55.42470932006836" y="-36.91962814331055"/>
+      </node>
+      <node id="13" label="Mediaandparticipation.com">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="261"/>
+          <attvalue for="undirected_degree" value="129"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="129"/>
+          <attvalue for="creation_date" value="1671004016269"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004078283"/>
+          <attvalue for="pages_crawled" value="19"/>
+          <attvalue for="homepage" value="https://mediaandparticipation.com"/>
+          <attvalue for="name" value="Mediaandparticipation.com"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="8.658589363098145" y="40.60414123535156"/>
+      </node>
+      <node id="14" label="Mediapedagogy.gr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="4"/>
+          <attvalue for="undirected_degree" value="2"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="creation_date" value="1671004016293"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004078354"/>
+          <attvalue for="pages_crawled" value="2"/>
+          <attvalue for="name" value="Mediapedagogy.gr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="51.04787063598633" y="-59.59469223022461"/>
+      </node>
+      <node id="15" label="Nbu.bg">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="5524"/>
+          <attvalue for="undirected_degree" value="280"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="280"/>
+          <attvalue for="creation_date" value="1671004016331"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004078420"/>
+          <attvalue for="pages_crawled" value="705"/>
+          <attvalue for="homepage" value="https://teacher.nbu.bg"/>
+          <attvalue for="name" value="Nbu.bg"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="72.89231872558594" y="-4.626047611236572"/>
+      </node>
+      <node id="16" label="Puv-Editions.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="3879"/>
+          <attvalue for="undirected_degree" value="71"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="71"/>
+          <attvalue for="creation_date" value="1671004016363"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004080490"/>
+          <attvalue for="pages_crawled" value="63"/>
+          <attvalue for="homepage" value="https://www.puv-editions.fr/selection-de-sites.html"/>
+          <attvalue for="name" value="Puv-Editions.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-46.288394927978516" y="-60.68690872192383"/>
+      </node>
+      <node id="17" label="Quartz-Lab.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="671"/>
+          <attvalue for="undirected_degree" value="21"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="21"/>
+          <attvalue for="creation_date" value="1671004016425"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004080556"/>
+          <attvalue for="pages_crawled" value="93"/>
+          <attvalue for="homepage" value="https://www.quartz-lab.fr"/>
+          <attvalue for="name" value="Quartz-Lab.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="-15.923993110656738" y="-28.94165802001953"/>
+      </node>
+      <node id="18" label="Ruc.dk">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="52567"/>
+          <attvalue for="undirected_degree" value="598"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="598"/>
+          <attvalue for="creation_date" value="1671004016459"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004080597"/>
+          <attvalue for="pages_crawled" value="3318"/>
+          <attvalue for="homepage" value="https://ruc.dk/om-cookies-paa-rucdk"/>
+          <attvalue for="name" value="Ruc.dk"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="32.767879486083984" y="26.007492065429688"/>
+      </node>
+      <node id="19" label="Sfb969.de">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="83"/>
+          <attvalue for="undirected_degree" value="51"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="51"/>
+          <attvalue for="creation_date" value="1671004016486"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004082826"/>
+          <attvalue for="pages_crawled" value="21"/>
+          <attvalue for="homepage" value="https://sfb969.de"/>
+          <attvalue for="name" value="Sfb969.de"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="14.908434867858887" y="82.41020202636719"/>
+      </node>
+      <node id="20" label="Sfbtrr161.de">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1467"/>
+          <attvalue for="undirected_degree" value="265"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="265"/>
+          <attvalue for="creation_date" value="1671004016515"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004082931"/>
+          <attvalue for="pages_crawled" value="35"/>
+          <attvalue for="homepage" value="https://www.sfbtrr161.de"/>
+          <attvalue for="name" value="Sfbtrr161.de"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="36.347434997558594" y="42.50161361694336"/>
+      </node>
+      <node id="21" label="Twi-Kreuzlingen.ch">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="302"/>
+          <attvalue for="undirected_degree" value="14"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="14"/>
+          <attvalue for="creation_date" value="1671004016546"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004083081"/>
+          <attvalue for="pages_crawled" value="26"/>
+          <attvalue for="homepage" value="http://www.twi-kreuzlingen.ch"/>
+          <attvalue for="name" value="Twi-Kreuzlingen.ch"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="23.21476936340332" y="37.24840545654297"/>
+      </node>
+      <node id="22" label="Uni-Konstanz.de">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="16183"/>
+          <attvalue for="undirected_degree" value="1466"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="6"/>
+          <attvalue for="outdegree" value="1465"/>
+          <attvalue for="creation_date" value="1671004016620"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004084798"/>
+          <attvalue for="pages_crawled" value="1569"/>
+          <attvalue for="homepage" value="https://www.uni-konstanz.de"/>
+          <attvalue for="name" value="Uni-Konstanz.de"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="13.797958971132712"/>
+        <viz:position x="19.217437744140625" y="57.120906829833984"/>
+      </node>
+      <node id="23" label="Univ-Paris13.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="731"/>
+          <attvalue for="undirected_degree" value="81"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="2"/>
+          <attvalue for="outdegree" value="81"/>
+          <attvalue for="creation_date" value="1671004016663"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004084993"/>
+          <attvalue for="pages_crawled" value="53"/>
+          <attvalue for="homepage" value="http://mathstic.univ-paris13.fr"/>
+          <attvalue for="name" value="Univ-Paris13.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="9.65685424949238"/>
+        <viz:position x="-24.97479248046875" y="-9.644232749938965"/>
+      </node>
+      <node id="24" label="Univ-Paris8.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2091"/>
+          <attvalue for="undirected_degree" value="99"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="8"/>
+          <attvalue for="outdegree" value="97"/>
+          <attvalue for="creation_date" value="1671004016725"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1671004085364"/>
+          <attvalue for="pages_crawled" value="152"/>
+          <attvalue for="homepage" value="https://www.univ-paris8.fr"/>
+          <attvalue for="name" value="Univ-Paris8.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="15.313708498984761"/>
+        <viz:position x="-35.88161087036133" y="-32.908058166503906"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="6>1" source="6" target="1">
+        <attvalues>
+          <attvalue for="count" value="12"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="10>1" source="10" target="1">
+        <attvalues>
+          <attvalue for="count" value="21"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1>2" source="1" target="2">
+        <attvalues>
+          <attvalue for="count" value="74"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="11>3" source="11" target="3">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="5>3" source="5" target="3">
+        <attvalues>
+          <attvalue for="count" value="31"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>3" source="17" target="3">
+        <attvalues>
+          <attvalue for="count" value="92"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="23>3" source="23" target="3">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="24>3" source="24" target="3">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="19>4" source="19" target="4">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="22>4" source="22" target="4">
+        <attvalues>
+          <attvalue for="count" value="7"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3>5" source="3" target="5">
+        <attvalues>
+          <attvalue for="count" value="182"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="11>5" source="11" target="5">
+        <attvalues>
+          <attvalue for="count" value="65"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="12>5" source="12" target="5">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="22>5" source="22" target="5">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="23>5" source="23" target="5">
+        <attvalues>
+          <attvalue for="count" value="81"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="24>5" source="24" target="5">
+        <attvalues>
+          <attvalue for="count" value="27"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1>6" source="1" target="6">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1>7" source="1" target="7">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="15>8" source="15" target="8">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="22>9" source="22" target="9">
+        <attvalues>
+          <attvalue for="count" value="60"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1>10" source="1" target="10">
+        <attvalues>
+          <attvalue for="count" value="579"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="5>10" source="5" target="10">
+        <attvalues>
+          <attvalue for="count" value="23"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="13>10" source="13" target="10">
+        <attvalues>
+          <attvalue for="count" value="8"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>10" source="17" target="10">
+        <attvalues>
+          <attvalue for="count" value="9"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>10" source="18" target="10">
+        <attvalues>
+          <attvalue for="count" value="442"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="20>10" source="20" target="10">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="21>10" source="21" target="10">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="22>10" source="22" target="10">
+        <attvalues>
+          <attvalue for="count" value="38"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="23>10" source="23" target="10">
+        <attvalues>
+          <attvalue for="count" value="25"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="24>10" source="24" target="10">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="15>10" source="15" target="10">
+        <attvalues>
+          <attvalue for="count" value="89"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="24>11" source="24" target="11">
+        <attvalues>
+          <attvalue for="count" value="13"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="24>12" source="24" target="12">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="22>13" source="22" target="13">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1>14" source="1" target="14">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="8>15" source="8" target="15">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="24>17" source="24" target="17">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="22>19" source="22" target="19">
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="22>20" source="22" target="20">
+        <attvalues>
+          <attvalue for="count" value="11"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="22>21" source="22" target="21">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="9>22" source="9" target="22">
+        <attvalues>
+          <attvalue for="count" value="4"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="13>22" source="13" target="22">
+        <attvalues>
+          <attvalue for="count" value="29"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="18>22" source="18" target="22">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="19>22" source="19" target="22">
+        <attvalues>
+          <attvalue for="count" value="57"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="20>22" source="20" target="22">
+        <attvalues>
+          <attvalue for="count" value="77"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="21>22" source="21" target="22">
+        <attvalues>
+          <attvalue for="count" value="24"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="5>23" source="5" target="23">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="24>23" source="24" target="23">
+        <attvalues>
+          <attvalue for="count" value="6"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="1>24" source="1" target="24">
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="5>24" source="5" target="24">
+        <attvalues>
+          <attvalue for="count" value="331"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="11>24" source="11" target="24">
+        <attvalues>
+          <attvalue for="count" value="65"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="12>24" source="12" target="24">
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="16>24" source="16" target="24">
+        <attvalues>
+          <attvalue for="count" value="62"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="17>24" source="17" target="24">
+        <attvalues>
+          <attvalue for="count" value="3"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3>24" source="3" target="24">
+        <attvalues>
+          <attvalue for="count" value="153"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="23>24" source="23" target="24">
+        <attvalues>
+          <attvalue for="count" value="18"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
