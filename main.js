@@ -16,9 +16,13 @@ titreProjet.append('div').html(p=>{
     fichiers.forEach(f=>{        
         let pathSource = "data/"+p+f, 
             pathWeb = "https://samszo.github.io/M2GSI_22-23/data/"+p+f,
+            pathGephi = "gephi.html?path="+p+f,
             pathHTML = "https://samszo.github.io/M2GSI_22-23/pages/"+p+f;
         if(f=='.html'){
             html += `<a target="_blank" href="${pathHTML}">${pathHTML}</a><br/><br/>`;
+        }else if(f.substring(f.lastIndexOf('.'))=='.gexf'){
+            html += `<br/><a target="_blank" href="${pathGephi}">${pathGephi}</a><br/>`;
+            html += `<a target="_blank" href="${pathSource}">${pathSource}</a><br/>`;
         }else{
             html += `<a target="_blank" href="${pathSource}">${pathSource}</a> <a target="_blank" href="${pathWeb}">${pathWeb}</a> <br/>`;
         }
