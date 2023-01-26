@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta/>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="status" title="status" type="string"/>
+      <attribute id="pages_total" title="pages_total" type="integer"/>
+      <attribute id="undirected_degree" title="undirected_degree" type="integer"/>
+      <attribute id="crawling_status" title="crawling_status" type="string"/>
+      <attribute id="indegree" title="indegree" type="integer"/>
+      <attribute id="outdegree" title="outdegree" type="integer"/>
+      <attribute id="creation_date" title="creation_date" type="double"/>
+      <attribute id="indexing_status" title="indexing_status" type="string"/>
+      <attribute id="crawled" title="crawled" type="boolean"/>
+      <attribute id="last_modification_date" title="last_modification_date" type="double"/>
+      <attribute id="pages_crawled" title="pages_crawled" type="integer"/>
+      <attribute id="homepage" title="homepage" type="string"/>
+      <attribute id="name" title="name" type="string"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="count" title="count" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="1" label="Anr.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="11264"/>
+          <attvalue for="undirected_degree" value="268"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="268"/>
+          <attvalue for="creation_date" value="1674640444577"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1674640508989"/>
+          <attvalue for="pages_crawled" value="2328"/>
+          <attvalue for="homepage" value="https://anr.fr"/>
+          <attvalue for="name" value="Anr.fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-5.5684051513671875" y="18.040176391601562"/>
+      </node>
+      <node id="2" label="commission.Europa.eu /research-and-innovation_fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2"/>
+          <attvalue for="undirected_degree" value="1"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="1"/>
+          <attvalue for="creation_date" value="1674640444582"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1674640509002"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="commission.Europa.eu /research-and-innovation_fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="4.667535781860352" y="4.419520378112793"/>
+      </node>
+      <node id="3" label="sites.Google.com /.../ ?pli=1">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2"/>
+          <attvalue for="undirected_degree" value="5"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="5"/>
+          <attvalue for="creation_date" value="1674640457153"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1674640509049"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="sites.Google.com /.../ ?pli=1"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="10.85251235961914" y="-38.051151275634766"/>
+      </node>
+      <node id="4" label="european-union.Europa.eu /.../funding-grants-subsidies_fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2"/>
+          <attvalue for="undirected_degree" value="2"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="2"/>
+          <attvalue for="creation_date" value="1674640444994"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1674640509066"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="european-union.Europa.eu /.../funding-grants-subsidies_fr"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="-14.32394790649414" y="2.005513906478882"/>
+      </node>
+      <node id="5" label="Hal.science /.../author-structure">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="86"/>
+          <attvalue for="undirected_degree" value="7"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="7"/>
+          <attvalue for="creation_date" value="1674640444999"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1674640509113"/>
+          <attvalue for="pages_crawled" value="29"/>
+          <attvalue for="homepage" value="https://hal.science/LED/browse/author-structure"/>
+          <attvalue for="name" value="Hal.science /.../author-structure"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="4"/>
+        <viz:position x="1.0803098678588867" y="49.10158157348633"/>
+      </node>
+      <node id="63" label="Europa.eu">
+        <attvalues>
+          <attvalue for="status" value="DISCOVERED"/>
+          <attvalue for="pages_total" value="235"/>
+          <attvalue for="undirected_degree" value="3"/>
+          <attvalue for="crawling_status" value="UNCRAWLED"/>
+          <attvalue for="indegree" value="3"/>
+          <attvalue for="outdegree" value="0"/>
+          <attvalue for="creation_date" value="1674641614750"/>
+          <attvalue for="indexing_status" value="UNINDEXED"/>
+          <attvalue for="crawled" value="false"/>
+          <attvalue for="last_modification_date" value="1674641614750"/>
+          <attvalue for="pages_crawled" value="0"/>
+          <attvalue for="name" value="Europa.eu"/>
+        </attvalues>
+        <viz:color r="147" g="189" b="224"/>
+        <viz:size value="10.928203230275509"/>
+        <viz:position x="-5.363372325897217" y="7.783207893371582"/>
+      </node>
+      <node id="281" label="sites.Google.com /.../research">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="57"/>
+          <attvalue for="undirected_degree" value="12"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="11"/>
+          <attvalue for="creation_date" value="1674650211780"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1674650220596"/>
+          <attvalue for="pages_crawled" value="51"/>
+          <attvalue for="homepage" value="https://sites.google.com/site/up8led/research/pub-econ"/>
+          <attvalue for="name" value="sites.Google.com /.../research"/>
+        </attvalues>
+        <viz:color r="51" g="51" b="51"/>
+        <viz:size value="8"/>
+        <viz:position x="16.707626342773438" y="-35.727745056152344"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1>63" source="1" target="63">
+        <attvalues>
+          <attvalue for="count" value="44"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="2>63" source="2" target="63">
+        <attvalues>
+          <attvalue for="count" value="105"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="4>63" source="4" target="63">
+        <attvalues>
+          <attvalue for="count" value="115"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+      <edge id="3>281" source="3" target="281">
+        <attvalues>
+          <attvalue for="count" value="50"/>
+        </attvalues>
+        <viz:color r="221" g="221" b="221"/>
+        <viz:size value="1"/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
