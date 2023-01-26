@@ -1,0 +1,1439 @@
+Université Paris 8 & Erasmus - Férielle et Bachir
+=================================================
+Exported 2023-01-26T08:40:34.682Z
+
+
+
+
+
+Circeft.fr
+----------
+
+#### ID
+3
+
+#### NAME
+Circeft.fr
+
+#### PREFIXES AS URL
+* http://circeft.fr
+* https://www.circeft.fr
+* http://www.circeft.fr
+* https://circeft.fr
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+559
+
+#### CRAWLED PAGES
+130
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.744Z
+
+#### TAGS
+
+
+
+
+Arscan.fr /arscan-presentation
+------------------------------
+
+#### ID
+2
+
+#### NAME
+Arscan.fr /arscan-presentation
+
+#### PREFIXES AS URL
+* http://www.arscan.fr/arscan-presentation
+* https://arscan.fr/arscan-presentation
+* https://www.arscan.fr/arscan-presentation
+* http://arscan.fr/arscan-presentation
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+20
+
+#### CRAWLED PAGES
+17
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.739Z
+
+#### TAGS
+
+
+
+
+lavue.Cnrs.fr
+-------------
+
+#### ID
+5
+
+#### NAME
+lavue.Cnrs.fr
+
+#### PREFIXES AS URL
+* http://www.lavue.cnrs.fr
+* https://www.lavue.cnrs.fr
+* https://lavue.cnrs.fr
+* http://lavue.cnrs.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+2622
+
+#### CRAWLED PAGES
+721
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.788Z
+
+#### TAGS
+
+
+
+
+ihtp.Cnrs.fr
+------------
+
+#### ID
+6
+
+#### NAME
+ihtp.Cnrs.fr
+
+#### PREFIXES AS URL
+* https://ihtp.cnrs.fr
+* http://www.ihtp.cnrs.fr
+* http://ihtp.cnrs.fr
+* https://www.ihtp.cnrs.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+0
+
+#### CRAWLED PAGES
+0
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.795Z
+
+#### TAGS
+
+
+
+
+hal-univ-paris8.Archives-Ouvertes.fr
+------------------------------------
+
+#### ID
+1
+
+#### NAME
+hal-univ-paris8.Archives-Ouvertes.fr
+
+#### PREFIXES AS URL
+* https://hal-univ-paris8.archives-ouvertes.fr
+* http://www.hal-univ-paris8.archives-ouvertes.fr
+* http://hal-univ-paris8.archives-ouvertes.fr
+* https://www.hal-univ-paris8.archives-ouvertes.fr
+
+#### INDEGREE
+5
+
+#### TOTAL KNOWN PAGES
+1516874
+
+#### CRAWLED PAGES
+46392
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-26T08:40:26.587Z
+
+#### TAGS
+
+
+
+
+cresppa.Cnrs.fr ?lang=en
+------------------------
+
+#### ID
+4
+
+#### NAME
+cresppa.Cnrs.fr ?lang=en
+
+#### PREFIXES AS URL
+* https://www.cresppa.cnrs.fr/?lang=en
+* https://cresppa.cnrs.fr/?lang=en
+* http://cresppa.cnrs.fr/?lang=en
+* http://www.cresppa.cnrs.fr/?lang=en
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+7
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.775Z
+
+#### TAGS
+
+
+
+
+legs.Cnrs.fr
+------------
+
+#### ID
+7
+
+#### NAME
+legs.Cnrs.fr
+
+#### PREFIXES AS URL
+* http://legs.cnrs.fr
+* https://www.legs.cnrs.fr
+* https://legs.cnrs.fr
+* http://www.legs.cnrs.fr
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+972
+
+#### CRAWLED PAGES
+234
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.817Z
+
+#### TAGS
+
+
+
+
+sfl.Cnrs.fr
+-----------
+
+#### ID
+8
+
+#### NAME
+sfl.Cnrs.fr
+
+#### PREFIXES AS URL
+* http://www.sfl.cnrs.fr
+* http://sfl.cnrs.fr
+* https://www.sfl.cnrs.fr
+* https://sfl.cnrs.fr
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+1797
+
+#### CRAWLED PAGES
+502
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.834Z
+
+#### TAGS
+
+
+
+
+Cognition-Usages.org /chart2
+----------------------------
+
+#### ID
+9
+
+#### NAME
+Cognition-Usages.org /chart2
+
+#### PREFIXES AS URL
+* https://cognition-usages.org/chart2
+* https://www.cognition-usages.org/chart2
+* http://www.cognition-usages.org/chart2
+* http://cognition-usages.org/chart2
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+590
+
+#### CRAWLED PAGES
+104
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.848Z
+
+#### TAGS
+
+
+
+
+Crjp8.fr
+--------
+
+#### ID
+10
+
+#### NAME
+Crjp8.fr
+
+#### PREFIXES AS URL
+* https://www.crjp8.fr
+* https://crjp8.fr
+* http://www.crjp8.fr
+* http://crjp8.fr
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+189
+
+#### CRAWLED PAGES
+59
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.874Z
+
+#### TAGS
+
+
+
+
+Education.gouv.fr /le-programme-erasmus-9890
+--------------------------------------------
+
+#### ID
+11
+
+#### NAME
+Education.gouv.fr /le-programme-erasmus-9890
+
+#### PREFIXES AS URL
+* https://www.education.gouv.fr/le-programme-erasmus-9890
+* https://education.gouv.fr/le-programme-erasmus-9890
+* http://www.education.gouv.fr/le-programme-erasmus-9890
+* http://education.gouv.fr/le-programme-erasmus-9890
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+3
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.892Z
+
+#### TAGS
+
+
+
+
+erasmus-plus.ec.Europa.eu /fr
+-----------------------------
+
+#### ID
+13
+
+#### NAME
+erasmus-plus.ec.Europa.eu /fr
+
+#### PREFIXES AS URL
+* https://erasmus-plus.ec.europa.eu/fr
+* http://www.erasmus-plus.ec.europa.eu/fr
+* http://erasmus-plus.ec.europa.eu/fr
+* https://www.erasmus-plus.ec.europa.eu/fr
+
+#### INDEGREE
+2
+
+#### TOTAL KNOWN PAGES
+463
+
+#### CRAWLED PAGES
+102
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.942Z
+
+#### TAGS
+
+
+
+
+Geopolitique.net
+----------------
+
+#### ID
+14
+
+#### NAME
+Geopolitique.net
+
+#### PREFIXES AS URL
+* http://www.geopolitique.net
+* https://www.geopolitique.net
+* http://geopolitique.net
+* https://geopolitique.net
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+694
+
+#### CRAWLED PAGES
+199
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.960Z
+
+#### TAGS
+
+
+
+
+sites.Google.com /.../up8led
+----------------------------
+
+#### ID
+15
+
+#### NAME
+sites.Google.com /.../up8led
+
+#### PREFIXES AS URL
+* http://www.sites.google.com/site/up8led
+* http://sites.google.com/site/up8led
+* https://sites.google.com/site/up8led
+* https://www.sites.google.com/site/up8led
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+236
+
+#### CRAWLED PAGES
+222
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:00.987Z
+
+#### TAGS
+
+
+
+
+Ladyss.com /about-us ?lang=fr
+-----------------------------
+
+#### ID
+16
+
+#### NAME
+Ladyss.com /about-us ?lang=fr
+
+#### PREFIXES AS URL
+* http://www.ladyss.com/about-us?lang=fr
+* https://ladyss.com/about-us?lang=fr
+* https://www.ladyss.com/about-us?lang=fr
+* http://ladyss.com/about-us?lang=fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+5
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.026Z
+
+#### TAGS
+
+
+
+
+Lutin-Userlab.fr /.../english
+-----------------------------
+
+#### ID
+17
+
+#### NAME
+Lutin-Userlab.fr /.../english
+
+#### PREFIXES AS URL
+* https://lutin-userlab.fr/site/_pages/english
+* https://www.lutin-userlab.fr/site/_pages/english
+* http://lutin-userlab.fr/site/_pages/english
+* http://www.lutin-userlab.fr/site/_pages/english
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+7
+
+#### CRAWLED PAGES
+2
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.040Z
+
+#### TAGS
+
+
+
+
+dysco.Parisnanterre.fr
+----------------------
+
+#### ID
+18
+
+#### NAME
+dysco.Parisnanterre.fr
+
+#### PREFIXES AS URL
+* http://dysco.parisnanterre.fr
+* http://www.dysco.parisnanterre.fr
+* https://www.dysco.parisnanterre.fr
+* https://dysco.parisnanterre.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+268
+
+#### CRAWLED PAGES
+68
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.052Z
+
+#### TAGS
+
+
+
+
+memo.Parisnanterre.fr
+---------------------
+
+#### ID
+20
+
+#### NAME
+memo.Parisnanterre.fr
+
+#### PREFIXES AS URL
+* https://memo.parisnanterre.fr
+* http://www.memo.parisnanterre.fr
+* http://memo.parisnanterre.fr
+* https://www.memo.parisnanterre.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+894
+
+#### CRAWLED PAGES
+196
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.084Z
+
+#### TAGS
+
+
+
+
+Puv-Editions.fr /presses-universitaires-de-vincennes.html
+---------------------------------------------------------
+
+#### ID
+21
+
+#### NAME
+Puv-Editions.fr /presses-universitaires-de-vincennes.html
+
+#### PREFIXES AS URL
+* https://www.puv-editions.fr/presses-universitaires-de-vincennes.html
+* https://puv-editions.fr/presses-universitaires-de-vincennes.html
+* http://puv-editions.fr/presses-universitaires-de-vincennes.html
+* http://www.puv-editions.fr/presses-universitaires-de-vincennes.html
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+1
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.104Z
+
+#### TAGS
+
+
+
+
+Quartz-Lab.fr ?lang=en
+----------------------
+
+#### ID
+22
+
+#### NAME
+Quartz-Lab.fr ?lang=en
+
+#### PREFIXES AS URL
+* https://quartz-lab.fr/?lang=en
+* http://www.quartz-lab.fr/?lang=en
+* http://quartz-lab.fr/?lang=en
+* https://www.quartz-lab.fr/?lang=en
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+1
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.115Z
+
+#### TAGS
+
+
+
+
+experice.Univ-Paris13.fr
+------------------------
+
+#### ID
+23
+
+#### NAME
+experice.Univ-Paris13.fr
+
+#### PREFIXES AS URL
+* http://www.experice.univ-paris13.fr
+* https://experice.univ-paris13.fr
+* http://experice.univ-paris13.fr
+* https://www.experice.univ-paris13.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+428
+
+#### CRAWLED PAGES
+176
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.130Z
+
+#### TAGS
+
+
+
+
+math.Univ-Paris13.fr /.../en
+----------------------------
+
+#### ID
+24
+
+#### NAME
+math.Univ-Paris13.fr /.../en
+
+#### PREFIXES AS URL
+* http://math.univ-paris13.fr/laga/index.php/en
+* https://www.math.univ-paris13.fr/laga/index.php/en
+* http://www.math.univ-paris13.fr/laga/index.php/en
+* https://math.univ-paris13.fr/laga/index.php/en
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+88
+
+#### CRAWLED PAGES
+59
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.143Z
+
+#### TAGS
+
+
+
+
+aiac.Univ-Paris8.fr
+-------------------
+
+#### ID
+25
+
+#### NAME
+aiac.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* http://www.aiac.univ-paris8.fr
+* http://aiac.univ-paris8.fr
+* https://aiac.univ-paris8.fr
+* https://www.aiac.univ-paris8.fr
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+4
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.155Z
+
+#### TAGS
+
+
+
+
+estca.Univ-Paris8.fr
+--------------------
+
+#### ID
+27
+
+#### NAME
+estca.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* https://estca.univ-paris8.fr
+* http://www.estca.univ-paris8.fr
+* http://estca.univ-paris8.fr
+* https://www.estca.univ-paris8.fr
+
+#### INDEGREE
+2
+
+#### TOTAL KNOWN PAGES
+23709
+
+#### CRAWLED PAGES
+549
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.177Z
+
+#### TAGS
+
+
+
+
+etudes-romanes.Univ-Paris8.fr
+-----------------------------
+
+#### ID
+28
+
+#### NAME
+etudes-romanes.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* http://www.etudes-romanes.univ-paris8.fr
+* https://etudes-romanes.univ-paris8.fr
+* http://etudes-romanes.univ-paris8.fr
+* https://www.etudes-romanes.univ-paris8.fr
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+2
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T12:48:38.030Z
+
+#### TAGS
+
+
+
+
+lapps.Parisnanterre.fr
+----------------------
+
+#### ID
+19
+
+#### NAME
+lapps.Parisnanterre.fr
+
+#### PREFIXES AS URL
+* https://www.lapps.parisnanterre.fr
+* https://lapps.parisnanterre.fr
+* http://www.lapps.parisnanterre.fr
+* http://lapps.parisnanterre.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+261
+
+#### CRAWLED PAGES
+60
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.077Z
+
+#### TAGS
+
+
+
+
+cemti.Univ-Paris8.fr
+--------------------
+
+#### ID
+26
+
+#### NAME
+cemti.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* https://cemti.univ-paris8.fr
+* http://www.cemti.univ-paris8.fr
+* http://cemti.univ-paris8.fr
+* https://www.cemti.univ-paris8.fr
+
+#### INDEGREE
+2
+
+#### TOTAL KNOWN PAGES
+256
+
+#### CRAWLED PAGES
+194
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.170Z
+
+#### TAGS
+
+
+
+
+info.Erasmusplus.fr
+-------------------
+
+#### ID
+12
+
+#### NAME
+info.Erasmusplus.fr
+
+#### PREFIXES AS URL
+* http://info.erasmusplus.fr
+* https://info.erasmusplus.fr
+* http://www.info.erasmusplus.fr
+* https://www.info.erasmusplus.fr
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+434
+
+#### CRAWLED PAGES
+96
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:06.578Z
+
+#### TAGS
+
+
+
+
+idhes.Univ-Paris8.fr
+--------------------
+
+#### ID
+30
+
+#### NAME
+idhes.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* http://www.idhes.univ-paris8.fr
+* https://idhes.univ-paris8.fr
+* http://idhes.univ-paris8.fr
+* https://www.idhes.univ-paris8.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+109
+
+#### CRAWLED PAGES
+74
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.228Z
+
+#### TAGS
+
+
+
+
+llcp.Univ-Paris8.fr
+-------------------
+
+#### ID
+32
+
+#### NAME
+llcp.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* https://www.llcp.univ-paris8.fr
+* https://llcp.univ-paris8.fr
+* http://www.llcp.univ-paris8.fr
+* http://llcp.univ-paris8.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+1113
+
+#### CRAWLED PAGES
+434
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.254Z
+
+#### TAGS
+
+
+
+
+lasectionclinique.Univ-Paris8.fr
+--------------------------------
+
+#### ID
+33
+
+#### NAME
+lasectionclinique.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* https://www.lasectionclinique.univ-paris8.fr
+* http://lasectionclinique.univ-paris8.fr
+* http://www.lasectionclinique.univ-paris8.fr
+* https://lasectionclinique.univ-paris8.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+215
+
+#### CRAWLED PAGES
+125
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:06.585Z
+
+#### TAGS
+
+
+
+
+mondes-allemands.Univ-Paris8.fr
+-------------------------------
+
+#### ID
+34
+
+#### NAME
+mondes-allemands.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* https://mondes-allemands.univ-paris8.fr
+* https://www.mondes-allemands.univ-paris8.fr
+* http://mondes-allemands.univ-paris8.fr
+* http://www.mondes-allemands.univ-paris8.fr
+
+#### INDEGREE
+1
+
+#### TOTAL KNOWN PAGES
+1
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T12:48:05.142Z
+
+#### TAGS
+
+
+
+
+musidanse.Univ-Paris8.fr
+------------------------
+
+#### ID
+35
+
+#### NAME
+musidanse.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* https://musidanse.univ-paris8.fr
+* https://www.musidanse.univ-paris8.fr
+* http://www.musidanse.univ-paris8.fr
+* http://musidanse.univ-paris8.fr
+
+#### INDEGREE
+2
+
+#### TOTAL KNOWN PAGES
+4
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T12:47:38.015Z
+
+#### TAGS
+
+
+
+
+transcrit.Univ-Paris8.fr ?lang=en
+---------------------------------
+
+#### ID
+37
+
+#### NAME
+transcrit.Univ-Paris8.fr ?lang=en
+
+#### PREFIXES AS URL
+* http://www.transcrit.univ-paris8.fr/?lang=en
+* http://transcrit.univ-paris8.fr/?lang=en
+* https://www.transcrit.univ-paris8.fr/?lang=en
+* https://transcrit.univ-paris8.fr/?lang=en
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+1
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.348Z
+
+#### TAGS
+
+
+
+
+Univ-Paris8.fr /-La-MSH-Paris-Nord-Maison-des-
+----------------------------------------------
+
+#### ID
+38
+
+#### NAME
+Univ-Paris8.fr /-La-MSH-Paris-Nord-Maison-des-
+
+#### PREFIXES AS URL
+* https://www.univ-paris8.fr/-La-MSH-Paris-Nord-Maison-des-
+* http://univ-paris8.fr/-La-MSH-Paris-Nord-Maison-des-
+* http://www.univ-paris8.fr/-La-MSH-Paris-Nord-Maison-des-
+* https://univ-paris8.fr/-La-MSH-Paris-Nord-Maison-des-
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+5
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.374Z
+
+#### TAGS
+
+
+
+
+Univ-Paris8.fr /.../ ?ur-laboratoire-psychopathologie-et-processus-de-changement-lppc-research-unit
+---------------------------------------------------------------------------------------------------
+
+#### ID
+39
+
+#### NAME
+Univ-Paris8.fr /.../ ?ur-laboratoire-psychopathologie-et-processus-de-changement-lppc-research-unit
+
+#### PREFIXES AS URL
+* https://www.univ-paris8.fr/en/?ur-laboratoire-psychopathologie-et-processus-de-changement-lppc-research-unit
+* http://www.univ-paris8.fr/en/?ur-laboratoire-psychopathologie-et-processus-de-changement-lppc-research-unit
+* http://univ-paris8.fr/en/?ur-laboratoire-psychopathologie-et-processus-de-changement-lppc-research-unit
+* https://univ-paris8.fr/en/?ur-laboratoire-psychopathologie-et-processus-de-changement-lppc-research-unit
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+1
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.401Z
+
+#### TAGS
+
+
+
+
+Univ-Paris8.fr /UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD
+------------------------------------------------------------------------------------------
+
+#### ID
+40
+
+#### NAME
+Univ-Paris8.fr /UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD
+
+#### PREFIXES AS URL
+* https://univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD
+* https://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD
+* http://univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD
+* http://www.univ-paris8.fr/UR-Laboratoire-d-Intelligence-Artificielle-et-Semantique-des-Donnees-LIASD
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+5
+
+#### CRAWLED PAGES
+1
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.426Z
+
+#### TAGS
+
+
+
+
+fablitt.Univ-Paris8.fr
+----------------------
+
+#### ID
+29
+
+#### NAME
+fablitt.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* http://fablitt.univ-paris8.fr
+* http://www.fablitt.univ-paris8.fr
+* https://www.fablitt.univ-paris8.fr
+* https://fablitt.univ-paris8.fr
+
+#### INDEGREE
+2
+
+#### TOTAL KNOWN PAGES
+2599
+
+#### CRAWLED PAGES
+833
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.214Z
+
+#### TAGS
+
+
+
+
+laboratoire-paragraphe.Univ-Paris8.fr
+-------------------------------------
+
+#### ID
+31
+
+#### NAME
+laboratoire-paragraphe.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* http://www.laboratoire-paragraphe.univ-paris8.fr
+* https://laboratoire-paragraphe.univ-paris8.fr
+* http://laboratoire-paragraphe.univ-paris8.fr
+* https://www.laboratoire-paragraphe.univ-paris8.fr
+
+#### INDEGREE
+0
+
+#### TOTAL KNOWN PAGES
+0
+
+#### CRAWLED PAGES
+0
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T12:48:27.850Z
+
+#### TAGS
+
+
+
+
+scenes-monde.Univ-Paris8.fr
+---------------------------
+
+#### ID
+36
+
+#### NAME
+scenes-monde.Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* https://www.scenes-monde.univ-paris8.fr
+* http://scenes-monde.univ-paris8.fr
+* http://www.scenes-monde.univ-paris8.fr
+* https://scenes-monde.univ-paris8.fr
+
+#### INDEGREE
+2
+
+#### TOTAL KNOWN PAGES
+1467
+
+#### CRAWLED PAGES
+276
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T09:51:01.324Z
+
+#### TAGS
+
+
+
+
+Univ-Paris8.fr
+--------------
+
+#### ID
+51
+
+#### NAME
+Univ-Paris8.fr
+
+#### PREFIXES AS URL
+* https://www.univ-paris8.fr
+* http://univ-paris8.fr
+* http://www.univ-paris8.fr
+* https://univ-paris8.fr
+
+#### INDEGREE
+29
+
+#### TOTAL KNOWN PAGES
+265
+
+#### CRAWLED PAGES
+0
+
+#### STATUS
+IN
+
+#### LAST MODIFICATION DATE
+2023-01-25T14:18:43.783Z
+
+#### TAGS
