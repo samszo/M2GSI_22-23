@@ -40,9 +40,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Europa.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-706.1922" y="825.7727"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-275.84982" y="344.61273"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="23" label="Archives-Ouvertes.fr">
         <attvalues>
@@ -60,9 +60,9 @@
           <attvalue for="homepage" value="https://hal.archives-ouvertes.fr"/>
           <attvalue for="name" value="Archives-Ouvertes.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="143.53014" y="746.0237"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="64.03913" y="312.7131"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="57" label="Ouvrirlascience.fr">
         <attvalues>
@@ -79,9 +79,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ouvrirlascience.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="18.48218" y="907.64215"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="14.019945" y="377.3605"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="98" label="U-Plum.fr">
         <attvalues>
@@ -99,9 +99,9 @@
           <attvalue for="homepage" value="http://www.u-plum.fr"/>
           <attvalue for="name" value="U-Plum.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1149.3799" y="559.0655"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="466.379" y="237.92984"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="100" label="Univ-Paris8.fr">
         <attvalues>
@@ -119,9 +119,9 @@
           <attvalue for="homepage" value="http://www.univ-paris8.fr"/>
           <attvalue for="name" value="Univ-Paris8.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1250.5084" y="551.35455"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="506.8304" y="234.84546"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="106" label="Cnrs.fr">
         <attvalues>
@@ -138,9 +138,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Cnrs.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-87.48346" y="876.71606"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-28.366312" y="364.99008"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="109" label="Sciencesconf.org">
         <attvalues>
@@ -158,9 +158,9 @@
           <attvalue for="homepage" value="https://www.sciencesconf.org"/>
           <attvalue for="name" value="Sciencesconf.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-94.21354" y="981.4687"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-31.058344" y="406.8911"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="6" label="Twitter.com /agencerecherche">
         <attvalues>
@@ -178,9 +178,9 @@
           <attvalue for="homepage" value="https://twitter.com/agencerecherche"/>
           <attvalue for="name" value="Twitter.com /agencerecherche"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-599.6019" y="202.49391"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-233.2137" y="95.3012"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="7" label="Legifrance.gouv.fr">
         <attvalues>
@@ -197,9 +197,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Legifrance.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-525.98413" y="-227.23044"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-203.76659" y="-76.58854"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="8" label="Linkedin.com /.../anr">
         <attvalues>
@@ -217,9 +217,9 @@
           <attvalue for="homepage" value="https://www.linkedin.com/company/anr/"/>
           <attvalue for="name" value="Linkedin.com /.../anr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-666.8407" y="-671.00616"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-260.10922" y="-254.09883"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="9" label="Agencerecherche.fr">
         <attvalues>
@@ -237,9 +237,9 @@
           <attvalue for="homepage" value="https://aap.agencerecherche.fr"/>
           <attvalue for="name" value="Agencerecherche.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="493.9774" y="-354.5039"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="204.21803" y="-127.497925"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="10" label="Gouvernement.fr">
         <attvalues>
@@ -257,9 +257,9 @@
           <attvalue for="homepage" value="https://www.gouvernement.fr/france-2030"/>
           <attvalue for="name" value="Gouvernement.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-532.75397" y="-826.46313"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-206.47452" y="-316.28162"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="11" label="Univ-Nantes.fr">
         <attvalues>
@@ -277,9 +277,9 @@
           <attvalue for="homepage" value="https://cr2ti.univ-nantes.fr"/>
           <attvalue for="name" value="Univ-Nantes.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="605.68365" y="-162.23898"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="248.90054" y="-50.591957"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="12" label="Paysdelaloire.fr">
         <attvalues>
@@ -296,9 +296,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Paysdelaloire.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="309.3872" y="623.176"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="130.38196" y="263.57407"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="13" label="Science.org">
         <attvalues>
@@ -315,9 +315,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Science.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-635.952" y="270.0359"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-247.75374" y="122.31799"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="15" label="Appelsprojetsrecherche.fr">
         <attvalues>
@@ -335,9 +335,9 @@
           <attvalue for="homepage" value="https://www.appelsprojetsrecherche.fr"/>
           <attvalue for="name" value="Appelsprojetsrecherche.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-398.08432" y="602.1566"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-152.60666" y="255.16629"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="16" label="Defense.gouv.fr">
         <attvalues>
@@ -354,9 +354,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Defense.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="668.6027" y="-197.05261"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="274.06818" y="-64.51741"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="17" label="Scienceeurope.org">
         <attvalues>
@@ -374,9 +374,9 @@
           <attvalue for="homepage" value="https://www.scienceeurope.org"/>
           <attvalue for="name" value="Scienceeurope.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="213.07831" y="557.7943"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="91.8584" y="237.42137"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="18" label="Gendersmart.eu">
         <attvalues>
@@ -394,9 +394,9 @@
           <attvalue for="homepage" value="https://www.gendersmart.eu"/>
           <attvalue for="name" value="Gendersmart.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-357.41406" y="41.536655"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-136.33855" y="30.918303"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="19" label="Gender-Net-Plus.eu">
         <attvalues>
@@ -414,9 +414,9 @@
           <attvalue for="homepage" value="http://gender-net-plus.eu"/>
           <attvalue for="name" value="Gender-Net-Plus.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="3.96249" y="570.68365"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="8.2120695" y="242.5771"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="20" label="Scieur.org">
         <attvalues>
@@ -434,9 +434,9 @@
           <attvalue for="homepage" value="http://scieur.org/gender-guide"/>
           <attvalue for="name" value="Scieur.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-605.43713" y="344.06262"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-235.54778" y="151.9287"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="21" label="Webex.com">
         <attvalues>
@@ -453,9 +453,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Webex.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="101.88554" y="404.10306"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="47.381287" y="175.94487"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="24" label="Belmontforum.org">
         <attvalues>
@@ -473,9 +473,9 @@
           <attvalue for="homepage" value="https://www.belmontforum.org"/>
           <attvalue for="name" value="Belmontforum.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-311.39676" y="261.5489"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-117.93163" y="118.923195"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="25" label="Futureearth.org">
         <attvalues>
@@ -493,9 +493,9 @@
           <attvalue for="homepage" value="https://futureearth.org"/>
           <attvalue for="name" value="Futureearth.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="357.3018" y="343.2024"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="149.54779" y="151.5846"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="26" label="Sricongress.org">
         <attvalues>
@@ -513,9 +513,9 @@
           <attvalue for="homepage" value="https://sricongress.org"/>
           <attvalue for="name" value="Sricongress.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-412.27234" y="-112.37821"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-158.28186" y="-30.647648"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="27" label="Economie.gouv.fr">
         <attvalues>
@@ -533,9 +533,9 @@
           <attvalue for="homepage" value="https://www.economie.gouv.fr/plan-de-relance"/>
           <attvalue for="name" value="Economie.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-280.73547" y="-324.9432"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-105.667114" y="-115.673645"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="28" label="Ocim.fr">
         <attvalues>
@@ -552,9 +552,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ocim.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="337.29556" y="-398.17215"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="141.5453" y="-144.96523"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="29" label="Twitter.com /intent">
         <attvalues>
@@ -571,9 +571,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Twitter.com /intent"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-402.5973" y="-381.96823"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-154.41185" y="-138.48366"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="30" label="T.co">
         <attvalues>
@@ -591,9 +591,9 @@
           <attvalue for="homepage" value="https://t.co/ykDwokQ8kq"/>
           <attvalue for="name" value="T.co"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-31.100002" y="427.5417"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-5.8129287" y="185.32031"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="31" label="Twitter.com /BlueEconomyEU">
         <attvalues>
@@ -611,9 +611,9 @@
           <attvalue for="homepage" value="https://twitter.com/BlueEconomyEU"/>
           <attvalue for="name" value="Twitter.com /BlueEconomyEU"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="127.05773" y="-477.57086"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="57.450165" y="-176.72472"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="32" label="Twitter.com /search">
         <attvalues>
@@ -631,9 +631,9 @@
           <attvalue for="homepage" value="https://twitter.com/search?q=%23recherche&amp;src=hash"/>
           <attvalue for="name" value="Twitter.com /search"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="829.4726" y="-640.5389"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="338.4161" y="-241.91191"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="33" label="Twitter.com /agenceANRS">
         <attvalues>
@@ -651,9 +651,9 @@
           <attvalue for="homepage" value="https://twitter.com/agenceANRS"/>
           <attvalue for="name" value="Twitter.com /agenceANRS"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="281.20605" y="267.4469"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="119.1095" y="121.2824"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="34" label="Twitter.com /InstitutLPEM">
         <attvalues>
@@ -671,9 +671,9 @@
           <attvalue for="homepage" value="https://twitter.com/InstitutLPEM"/>
           <attvalue for="name" value="Twitter.com /InstitutLPEM"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="262.8148" y="-405.44376"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="111.75299" y="-147.87387"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="35" label="Bluepartnership.eu">
         <attvalues>
@@ -690,9 +690,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Bluepartnership.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="169.75058" y="159.49895"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="74.527306" y="78.10322"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="36" label="Securite-Routiere.gouv.fr">
         <attvalues>
@@ -709,9 +709,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Securite-Routiere.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="293.1527" y="-625.0944"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="123.88816" y="-235.73413"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="37" label="Academie-Sciences.fr">
         <attvalues>
@@ -728,9 +728,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Academie-Sciences.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="380.8065" y="47.41981"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="158.94968" y="33.271564"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="38" label="Twitter.com /AgenceRecherche">
         <attvalues>
@@ -748,9 +748,9 @@
           <attvalue for="homepage" value="https://twitter.com/AgenceRecherche"/>
           <attvalue for="name" value="Twitter.com /AgenceRecherche"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="168.72253" y="443.02054"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="74.11609" y="191.51186"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="39" label="Twitter.com /forskningsradet">
         <attvalues>
@@ -768,9 +768,9 @@
           <attvalue for="homepage" value="https://twitter.com/forskningsradet"/>
           <attvalue for="name" value="Twitter.com /forskningsradet"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="269.3528" y="-256.8864"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="114.3682" y="-88.45093"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="40" label="fr.Linkedin.com /.../anr">
         <attvalues>
@@ -788,9 +788,9 @@
           <attvalue for="homepage" value="https://fr.linkedin.com/company/anr"/>
           <attvalue for="name" value="fr.Linkedin.com /.../anr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="572.11774" y="327.71924"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="235.47417" y="145.39134"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="42" label="Livestorm.co">
         <attvalues>
@@ -807,9 +807,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Livestorm.co"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-304.21313" y="-923.7182"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-115.05818" y="-355.18365"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="44" label="Jpiamr.eu">
         <attvalues>
@@ -826,9 +826,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jpiamr.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-148.68968" y="568.455"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-52.848797" y="241.68565"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="45" label="Ohamr.eu">
         <attvalues>
@@ -846,9 +846,9 @@
           <attvalue for="homepage" value="http://www.ohamr.eu"/>
           <attvalue for="name" value="Ohamr.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="500.52206" y="313.27353"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="206.83589" y="139.61305"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="46" label="Vr.se">
         <attvalues>
@@ -865,9 +865,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Vr.se"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="209.39642" y="308.9734"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="90.38564" y="137.89299"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="47" label="Festivalyggdrasil.eu">
         <attvalues>
@@ -884,9 +884,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Festivalyggdrasil.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-119.84913" y="-663.4194"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-41.31258" y="-251.06412"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="48" label="Utc.fr">
         <attvalues>
@@ -903,9 +903,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Utc.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-757.07855" y="232.5646"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-296.20435" y="107.32948"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="49" label="Labcom-Mach4.fr">
         <attvalues>
@@ -923,9 +923,9 @@
           <attvalue for="homepage" value="http://www.labcom-mach4.fr"/>
           <attvalue for="name" value="Labcom-Mach4.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-729.30023" y="-137.2467"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-285.09302" y="-40.595043"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="50" label="Irdive.fr">
         <attvalues>
@@ -943,9 +943,9 @@
           <attvalue for="homepage" value="http://www.irdive.fr"/>
           <attvalue for="name" value="Irdive.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="395.62653" y="-240.5452"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="164.87769" y="-81.914444"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="51" label="Data.gouv.fr">
         <attvalues>
@@ -962,9 +962,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Data.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="265.3845" y="-164.42654"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="112.780876" y="-51.46698"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="52" label="Opengovpartnership.org">
         <attvalues>
@@ -982,9 +982,9 @@
           <attvalue for="homepage" value="https://www.opengovpartnership.org"/>
           <attvalue for="name" value="Opengovpartnership.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-454.95383" y="309.61066"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-175.35446" y="138.1479"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="53" label="Enseignementsup-Recherche.gouv.fr">
         <attvalues>
@@ -1002,9 +1002,9 @@
           <attvalue for="homepage" value="https://scanr.enseignementsup-recherche.gouv.fr"/>
           <attvalue for="name" value="Enseignementsup-Recherche.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-529.6552" y="329.7183"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-205.23502" y="146.19096"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="54" label="Opidor.fr">
         <attvalues>
@@ -1022,9 +1022,9 @@
           <attvalue for="homepage" value="https://dmp.opidor.fr"/>
           <attvalue for="name" value="Opidor.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-178.74887" y="-718.88586"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-64.872475" y="-273.2507"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="55" label="Inist.fr">
         <attvalues>
@@ -1042,9 +1042,9 @@
           <attvalue for="homepage" value="https://www.inist.fr"/>
           <attvalue for="name" value="Inist.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-362.67325" y="-303.84586"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-138.44223" y="-107.2347"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="56" label="Coalition-S.org">
         <attvalues>
@@ -1062,9 +1062,9 @@
           <attvalue for="homepage" value="https://www.coalition-s.org"/>
           <attvalue for="name" value="Coalition-S.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="121.150185" y="-289.36813"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="55.087147" y="-101.44362"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="58" label="Makeourplanetgreatagain-Cnrs.com">
         <attvalues>
@@ -1082,9 +1082,9 @@
           <attvalue for="homepage" value="https://makeourplanetgreatagain-cnrs.com"/>
           <attvalue for="name" value="Makeourplanetgreatagain-Cnrs.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="244.30614" y="469.59082"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="104.349525" y="202.13997"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="59" label="Un.org">
         <attvalues>
@@ -1101,9 +1101,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Un.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-209.20126" y="-889.5969"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-77.05343" y="-341.53513"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="60" label="Cbd.int">
         <attvalues>
@@ -1121,9 +1121,9 @@
           <attvalue for="homepage" value="https://absch.cbd.int"/>
           <attvalue for="name" value="Cbd.int"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-536.86237" y="-743.7288"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-208.11787" y="-283.1879"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="61" label="Fondationbiodiversite.fr">
         <attvalues>
@@ -1140,9 +1140,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Fondationbiodiversite.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-64.24351" y="-618.7804"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-19.070332" y="-233.20853"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="62" label="Cirad.fr">
         <attvalues>
@@ -1159,9 +1159,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Cirad.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-70.251396" y="574.6626"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-21.473486" y="244.16869"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="65" label="Cnil.fr">
         <attvalues>
@@ -1178,9 +1178,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Cnil.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="2.7665725" y="-566.4049"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="7.733701" y="-212.25833"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="66" label="Microsoft.com">
         <attvalues>
@@ -1197,9 +1197,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Microsoft.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-748.77936" y="-206.84155"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-292.88467" y="-68.43298"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="67" label="Mozilla.org">
         <attvalues>
@@ -1216,9 +1216,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Mozilla.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="173.82697" y="86.34056"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="76.15786" y="48.839863"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="68" label="Waterjpi.eu">
         <attvalues>
@@ -1236,9 +1236,9 @@
           <attvalue for="homepage" value="http://www.waterjpi.eu"/>
           <attvalue for="name" value="Waterjpi.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="296.4021" y="-540.7664"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="125.18792" y="-202.00293"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="69" label="Faccejpi.com">
         <attvalues>
@@ -1256,9 +1256,9 @@
           <attvalue for="homepage" value="https://www.faccejpi.com"/>
           <attvalue for="name" value="Faccejpi.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="336.84296" y="477.04617"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="141.36426" y="205.12212"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="70" label="Hceres.fr">
         <attvalues>
@@ -1275,9 +1275,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Hceres.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-747.65497" y="73.383606"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-292.4349" y="43.65708"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="71" label="Agence-Nationale-Recherche.fr">
         <attvalues>
@@ -1295,9 +1295,9 @@
           <attvalue for="homepage" value="http://www.agence-nationale-recherche.fr/Projet-ANR-15-FLDR-0001"/>
           <attvalue for="name" value="Agence-Nationale-Recherche.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-320.67932" y="187.62772"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-121.64465" y="89.35473"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="72" label="France2030.gouv.fr">
         <attvalues>
@@ -1315,9 +1315,9 @@
           <attvalue for="homepage" value="https://france2030.gouv.fr"/>
           <attvalue for="name" value="France2030.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="191.21335" y="-193.86467"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="83.11242" y="-63.24223"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="73" label="Argos-Challenge.com">
         <attvalues>
@@ -1335,9 +1335,9 @@
           <attvalue for="homepage" value="http://www.argos-challenge.com/fr"/>
           <attvalue for="name" value="Argos-Challenge.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-526.45435" y="26.151669"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-203.95467" y="24.764305"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="74" label="Sfdora.org">
         <attvalues>
@@ -1354,9 +1354,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Sfdora.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="461.86316" y="-433.7461"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="191.37234" y="-159.19481"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="75" label="Plan-Net.fr">
         <attvalues>
@@ -1373,9 +1373,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Plan-Net.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="541.7014" y="-59.338055"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="223.30765" y="-9.431583"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="76" label="Ikoula.com">
         <attvalues>
@@ -1393,9 +1393,9 @@
           <attvalue for="homepage" value="http://www.ikoula.com"/>
           <attvalue for="name" value="Ikoula.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="725.5675" y="-140.88649"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="296.8541" y="-42.05096"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="77" label="Horizon2020.gouv.fr">
         <attvalues>
@@ -1412,9 +1412,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Horizon2020.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="377.44785" y="129.19234"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="157.60622" y="65.980576"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="78" label="Nature.com">
         <attvalues>
@@ -1431,9 +1431,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Nature.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="352.357" y="267.53568"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="147.56987" y="121.31791"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="79" label="Anrs.fr">
         <attvalues>
@@ -1450,9 +1450,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Anrs.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-361.82013" y="-440.27496"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-138.10098" y="-161.80635"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="80" label="Climax-Sa.org">
         <attvalues>
@@ -1469,9 +1469,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Climax-Sa.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="140.41315" y="-372.0575"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="62.792336" y="-134.51936"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="81" label="Sri2022.org">
         <attvalues>
@@ -1488,9 +1488,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Sri2022.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-397.79468" y="-511.54703"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-152.4908" y="-190.31517"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="82" label="Panarcticoptions.org">
         <attvalues>
@@ -1507,9 +1507,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Panarcticoptions.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="798.91223" y="-540.6447"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="326.192" y="-201.95425"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="83" label="Doi.org">
         <attvalues>
@@ -1526,9 +1526,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Doi.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="429.57532" y="289.18777"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="178.4572" y="129.97874"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="84" label="Rsc.org">
         <attvalues>
@@ -1545,9 +1545,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Rsc.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="286.39624" y="546.3806"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="121.18557" y="232.85588"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="85" label="Inwink.com">
         <attvalues>
@@ -1564,9 +1564,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Inwink.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-391.46194" y="384.85623"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-149.9577" y="168.24614"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="86" label="Bit.ly">
         <attvalues>
@@ -1584,9 +1584,9 @@
           <attvalue for="homepage" value="https://bit.ly/2BNqHSh"/>
           <attvalue for="name" value="Bit.ly"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-312.37134" y="548.97186"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-118.321465" y="233.89238"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="87" label="Egalite-Femmes-Hommes.gouv.fr">
         <attvalues>
@@ -1603,9 +1603,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Egalite-Femmes-Hommes.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-268.90643" y="478.0084"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-100.9355" y="205.507"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="88" label="Bund.de">
         <attvalues>
@@ -1622,9 +1622,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Bund.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="135.92433" y="-591.5064"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="60.996807" y="-222.29893"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="89" label="Pt-Dlr.de">
         <attvalues>
@@ -1641,9 +1641,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Pt-Dlr.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-241.93353" y="-681.2415"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-90.14634" y="-258.19296"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="90" label="Gender-Smart.eu">
         <attvalues>
@@ -1661,9 +1661,9 @@
           <attvalue for="homepage" value="https://gender-smart.eu"/>
           <attvalue for="name" value="Gender-Smart.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-654.0043" y="150.98105"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-254.97464" y="74.69606"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="91" label="Linkedin.com /.../907159">
         <attvalues>
@@ -1681,9 +1681,9 @@
           <attvalue for="homepage" value="https://www.linkedin.com/company/907159/"/>
           <attvalue for="name" value="Linkedin.com /.../907159"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-465.87512" y="522.85645"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-179.72298" y="223.44621"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="92" label="Eventtia.com">
         <attvalues>
@@ -1700,9 +1700,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Eventtia.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-600.34174" y="47.21424"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-233.50963" y="33.189335"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="93" label="Vie-Publique.fr">
         <attvalues>
@@ -1719,9 +1719,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Vie-Publique.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-262.0204" y="320.42908"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-98.18108" y="142.47527"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="94" label="Collectivitedemartinique.mq">
         <attvalues>
@@ -1739,9 +1739,9 @@
           <attvalue for="homepage" value="http://www.collectivitedemartinique.mq"/>
           <attvalue for="name" value="Collectivitedemartinique.mq"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-469.6231" y="237.97849"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-181.22217" y="109.49503"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="95" label="Regionguadeloupe.fr">
         <attvalues>
@@ -1759,9 +1759,9 @@
           <attvalue for="homepage" value="http://www.regionguadeloupe.fr"/>
           <attvalue for="name" value="Regionguadeloupe.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-803.1534" y="-140.99612"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-314.63428" y="-42.094814"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="96" label="Cvent.com">
         <attvalues>
@@ -1778,9 +1778,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Cvent.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="435.84573" y="368.19113"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="180.96538" y="161.5801"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="97" label="Solidarites-Sante.gouv.fr">
         <attvalues>
@@ -1797,9 +1797,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Solidarites-Sante.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-317.25024" y="-535.9782"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-120.273026" y="-200.08765"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="101" label="Jpi-Urbaneurope.eu">
         <attvalues>
@@ -1816,9 +1816,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jpi-Urbaneurope.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="183.75809" y="-656.3262"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="80.13031" y="-248.22684"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="102" label="Submission-Icrad.eu">
         <attvalues>
@@ -1836,9 +1836,9 @@
           <attvalue for="homepage" value="http://www.submission-icrad.eu"/>
           <attvalue for="name" value="Submission-Icrad.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="302.4921" y="93.48815"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="127.62392" y="51.698902"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="103" label="Icrad.eu">
         <attvalues>
@@ -1856,9 +1856,9 @@
           <attvalue for="homepage" value="https://www.icrad.eu"/>
           <attvalue for="name" value="Icrad.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-387.4931" y="281.71606"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-148.37016" y="126.99007"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="104" label="Eib.org">
         <attvalues>
@@ -1875,9 +1875,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Eib.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-1080.6067" y="915.63824"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-425.61563" y="380.55893"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="105" label="Hal.science">
         <attvalues>
@@ -1894,9 +1894,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Hal.science"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="449.84827" y="810.4985"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="186.56639" y="338.50302"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="107" label="Sherpa.ac.uk">
         <attvalues>
@@ -1913,9 +1913,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Sherpa.ac.uk"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="341.15982" y="845.7841"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="143.091" y="352.61728"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="108" label="Episciences.org">
         <attvalues>
@@ -1933,9 +1933,9 @@
           <attvalue for="homepage" value="https://www.episciences.org"/>
           <attvalue for="name" value="Episciences.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="409.33694" y="871.2524"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="170.36186" y="362.8046"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="110" label="Framaforms.org">
         <attvalues>
@@ -1952,9 +1952,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Framaforms.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-431.40128" y="450.75354"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-165.93344" y="194.60506"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="111" label="Wakelet.com">
         <attvalues>
@@ -1971,9 +1971,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Wakelet.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-545.399" y="-398.58243"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-211.53252" y="-145.12933"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="112" label="Campusfrance.org">
         <attvalues>
@@ -1990,9 +1990,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Campusfrance.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-501.82404" y="461.57056"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-194.10254" y="198.93187"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="113" label="Ptoutline.eu">
         <attvalues>
@@ -2009,9 +2009,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ptoutline.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-666.81995" y="79.674644"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-260.10092" y="46.173496"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="115" label="Github.com /mne-tools">
         <attvalues>
@@ -2028,9 +2028,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Github.com /mne-tools"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-207.6166" y="-611.14386"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-76.41956" y="-230.15392"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="116" label="Mne.tools">
         <attvalues>
@@ -2047,9 +2047,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Mne.tools"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="492.9869" y="12.57946"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="203.82184" y="19.335423"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="117" label="Theia-Land.fr">
         <attvalues>
@@ -2066,9 +2066,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Theia-Land.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-511.39005" y="-473.49606"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-197.92894" y="-175.09479"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="118" label="Hypotheses.org">
         <attvalues>
@@ -2086,9 +2086,9 @@
           <attvalue for="homepage" value="http://archipal.hypotheses.org"/>
           <attvalue for="name" value="Hypotheses.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-73.81113" y="-542.08514"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-22.897379" y="-202.53043"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="119" label="Go-Fair.org">
         <attvalues>
@@ -2105,9 +2105,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Go-Fair.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-69.71323" y="-714.3193"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-21.258219" y="-271.42407"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="120" label="Faang.org">
         <attvalues>
@@ -2124,9 +2124,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Faang.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="240.19244" y="52.354473"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="102.704056" y="35.24543"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="121" label="4P1000.org">
         <attvalues>
@@ -2143,9 +2143,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="4P1000.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-529.07996" y="173.39113"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-205.00491" y="83.66009"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="122" label="Odatis-Ocean.fr">
         <attvalues>
@@ -2162,9 +2162,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Odatis-Ocean.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-410.86664" y="-203.31992"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-157.71959" y="-67.02433"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="123" label="Lairedu.fr">
         <attvalues>
@@ -2181,9 +2181,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Lairedu.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="463.25452" y="442.09863"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="191.92888" y="191.1431"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="124" label="Ox.ac.uk">
         <attvalues>
@@ -2200,9 +2200,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ox.ac.uk"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-118.06061" y="-909.1008"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-40.59717" y="-349.3367"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="125" label="Ecophytopic.fr">
         <attvalues>
@@ -2219,9 +2219,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ecophytopic.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-421.15186" y="72.3526"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-161.83366" y="43.24468"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="126" label="Challenge-Rose.fr">
         <attvalues>
@@ -2239,9 +2239,9 @@
           <attvalue for="homepage" value="http://challenge-rose.fr"/>
           <attvalue for="name" value="Challenge-Rose.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-189.83307" y="-526.6569"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-69.30615" y="-196.35913"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="127" label="Agriculture.gouv.fr">
         <attvalues>
@@ -2259,9 +2259,9 @@
           <attvalue for="homepage" value="https://agriculture.gouv.fr/le-plan-ecophyto-quest-ce-que-cest"/>
           <attvalue for="name" value="Agriculture.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="194.95868" y="-512.2998"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="84.61055" y="-190.61629"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="128" label="Aioli.cloud">
         <attvalues>
@@ -2279,9 +2279,9 @@
           <attvalue for="homepage" value="http://www.aioli.cloud"/>
           <attvalue for="name" value="Aioli.cloud"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-59.44146" y="228.2147"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-17.149511" y="105.58953"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="129" label="Change-Itn.eu">
         <attvalues>
@@ -2299,9 +2299,9 @@
           <attvalue for="homepage" value="https://change-itn.eu"/>
           <attvalue for="name" value="Change-Itn.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="299.27478" y="415.4617"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="126.33699" y="180.48833"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="130" label="Cicrp.info">
         <attvalues>
@@ -2319,9 +2319,9 @@
           <attvalue for="homepage" value="https://cicrp.info"/>
           <attvalue for="name" value="Cicrp.info"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="475.88373" y="-225.35562"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="196.98058" y="-75.838615"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="131" label="Anr-Sumum.fr">
         <attvalues>
@@ -2339,9 +2339,9 @@
           <attvalue for="homepage" value="https://anr-sumum.fr"/>
           <attvalue for="name" value="Anr-Sumum.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="285.8075" y="-327.8001"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="120.95007" y="-116.81641"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="132" label="Challengeia-Biodiv.fr">
         <attvalues>
@@ -2359,9 +2359,9 @@
           <attvalue for="homepage" value="https://www.challengeia-biodiv.fr"/>
           <attvalue for="name" value="Challengeia-Biodiv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="222.10045" y="-105.60133"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="95.467255" y="-27.936895"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="133" label="U-Bordeaux.fr">
         <attvalues>
@@ -2378,9 +2378,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="U-Bordeaux.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="774.07745" y="-211.74884"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="316.25806" y="-70.3959"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="134" label="Chistera.eu">
         <attvalues>
@@ -2398,9 +2398,9 @@
           <attvalue for="homepage" value="https://www.chistera.eu"/>
           <attvalue for="name" value="Chistera.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-497.56393" y="102.20349"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-192.3985" y="55.185036"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="135" label="Icpermed.eu">
         <attvalues>
@@ -2418,9 +2418,9 @@
           <attvalue for="homepage" value="https://www.icpermed.eu"/>
           <attvalue for="name" value="Icpermed.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="361.32675" y="-304.23245"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="151.15778" y="-107.38934"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="136" label="Aviesan.fr">
         <attvalues>
@@ -2437,9 +2437,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Aviesan.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-767.9994" y="-9.199278"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-300.5727" y="10.623927"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="137" label="Evenium-Site.com">
         <attvalues>
@@ -2456,9 +2456,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Evenium-Site.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-115.22538" y="-358.2941"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-39.46308" y="-129.014"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="138" label="Horizon-Europe.gouv.fr">
         <attvalues>
@@ -2476,9 +2476,9 @@
           <attvalue for="homepage" value="https://www.horizon-europe.gouv.fr/les-points-de-contact-nationaux-24230"/>
           <attvalue for="name" value="Horizon-Europe.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-16.739841" y="288.90558"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-0.0688639" y="129.86588"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="139" label="Ademe.fr">
         <attvalues>
@@ -2495,9 +2495,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ademe.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-120.160324" y="-484.65192"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-41.437057" y="-179.55713"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="140" label="Idefi-Anr-2019.fr">
         <attvalues>
@@ -2514,9 +2514,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Idefi-Anr-2019.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="99.599915" y="204.33311"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="46.467037" y="96.03689"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="141" label="Paris-Iea.fr">
         <attvalues>
@@ -2533,9 +2533,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Paris-Iea.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="79.35312" y="-539.3315"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="38.36832" y="-201.42896"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="142" label="Sre2022.eu">
         <attvalues>
@@ -2552,9 +2552,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Sre2022.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-262.60962" y="-397.14166"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-98.41677" y="-144.55302"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="143" label="Fetedelascience.fr">
         <attvalues>
@@ -2571,9 +2571,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Fetedelascience.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-471.544" y="-537.9782"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-181.99052" y="-200.88765"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="144" label="Zsi.at">
         <attvalues>
@@ -2590,9 +2590,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Zsi.at"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-156.80312" y="-841.29156"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-56.094173" y="-322.21298"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="146" label="Typo3.org">
         <attvalues>
@@ -2609,9 +2609,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Typo3.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-198.17805" y="268.8642"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-72.64415" y="121.84932"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="148" label="Etmaintenant-Lefestival.fr">
         <attvalues>
@@ -2629,9 +2629,9 @@
           <attvalue for="homepage" value="https://www.etmaintenant-lefestival.fr"/>
           <attvalue for="name" value="Etmaintenant-Lefestival.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="13.169252" y="371.17557"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="11.894774" y="162.77386"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="149" label="Dfn.de">
         <attvalues>
@@ -2648,9 +2648,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Dfn.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-78.51612" y="-426.06998"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-24.779377" y="-156.12436"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="150" label="Era4Health.eu">
         <attvalues>
@@ -2667,9 +2667,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Era4Health.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="464.5787" y="157.57869"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="192.45856" y="77.33511"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="151" label="Charte-Diversite.com">
         <attvalues>
@@ -2686,9 +2686,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Charte-Diversite.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-496.88696" y="-91.24974"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-192.12772" y="-22.196259"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="152" label="Talents-Handicap.com">
         <attvalues>
@@ -2706,9 +2706,9 @@
           <attvalue for="homepage" value="https://www.talents-handicap.com/477-agence-nationale-de-la-recherche"/>
           <attvalue for="name" value="Talents-Handicap.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-824.8737" y="61.81301"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-323.32242" y="39.028843"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="153" label="Recherche-Creation-Avignon.fr">
         <attvalues>
@@ -2725,9 +2725,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Recherche-Creation-Avignon.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="755.59607" y="-606.0392"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="308.8655" y="-228.11205"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="154" label="Inserm.fr">
         <attvalues>
@@ -2744,9 +2744,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Inserm.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="492.74155" y="-130.79239"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="203.7237" y="-38.013317"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="155" label="Bpifrance.fr">
         <attvalues>
@@ -2763,9 +2763,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Bpifrance.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-573.0053" y="117.086655"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-222.57506" y="61.1383"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="156" label="Fona.de">
         <attvalues>
@@ -2783,9 +2783,9 @@
           <attvalue for="homepage" value="https://www.fona.de/climate-fellows"/>
           <attvalue for="name" value="Fona.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="143.7562" y="280.85623"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="64.129555" y="126.64613"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="157" label="Recherche.gouv.fr">
         <attvalues>
@@ -2802,9 +2802,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Recherche.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-38.78853" y="499.13333"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-8.888339" y="213.95699"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="158" label="Entreprises.gouv.fr">
         <attvalues>
@@ -2821,9 +2821,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Entreprises.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="708.8479" y="-341.88718"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="290.16623" y="-122.45123"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="159" label="Competitivite.gouv.fr">
         <attvalues>
@@ -2841,9 +2841,9 @@
           <attvalue for="homepage" value="https://competitivite.gouv.fr/accueil-3.html"/>
           <attvalue for="name" value="Competitivite.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="283.5437" y="338.94662"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="120.044556" y="149.8823"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="160" label="Prima-Med.org">
         <attvalues>
@@ -2861,9 +2861,9 @@
           <attvalue for="homepage" value="http://prima-med.org"/>
           <attvalue for="name" value="Prima-Med.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="525.8784" y="396.91205"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="216.97844" y="173.06847"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="161" label="Sgdsn.gouv.fr">
         <attvalues>
@@ -2880,9 +2880,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Sgdsn.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-627.9152" y="-21.539976"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-244.53902" y="5.687648"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="162" label="Nsf.gov">
         <attvalues>
@@ -2899,9 +2899,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Nsf.gov"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-607.98773" y="-807.2309"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-236.56802" y="-308.5887"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="163" label="Nicolasaunai.com">
         <attvalues>
@@ -2918,9 +2918,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Nicolasaunai.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-192.56096" y="509.05087"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-70.39731" y="217.924"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="164" label="Programmepause.org">
         <attvalues>
@@ -2937,9 +2937,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Programmepause.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-240.92416" y="-971.74335"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-89.74259" y="-374.3937"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="165" label="Annales.org">
         <attvalues>
@@ -2956,9 +2956,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Annales.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-458.7271" y="161.49648"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-176.86377" y="78.90223"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="166" label="Calameo.com">
         <attvalues>
@@ -2975,9 +2975,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Calameo.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-90.564735" y="328.00214"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-29.598822" y="145.5045"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="167" label="Jst.go.jp">
         <attvalues>
@@ -2994,9 +2994,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jst.go.jp"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-217.10052" y="-802.63916"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-80.213135" y="-306.75204"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="168" label="Esac-Initiative.org">
         <attvalues>
@@ -3013,9 +3013,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Esac-Initiative.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="382.70273" y="420.828"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="159.70818" y="182.63484"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="169" label="Journalcheckertool.org">
         <attvalues>
@@ -3032,9 +3032,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Journalcheckertool.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="446.04428" y="85.78362"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="185.04478" y="48.61709"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="170" label="Doranum.fr">
         <attvalues>
@@ -3051,9 +3051,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Doranum.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="410.53793" y="-122.04533"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="170.84225" y="-34.514492"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="171" label="Jpnd.eu">
         <attvalues>
@@ -3070,9 +3070,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jpnd.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="338.82397" y="-137.50803"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="142.15666" y="-40.699574"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="172" label="Coen.org">
         <attvalues>
@@ -3089,9 +3089,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Coen.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-679.0232" y="-839.4896"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-264.9822" y="-321.49222"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="173" label="Github.com /OPIDoR">
         <attvalues>
@@ -3108,9 +3108,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Github.com /OPIDoR"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-553.24567" y="-44.526463"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-214.67119" y="-3.506947"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="174" label="Genci.fr">
         <attvalues>
@@ -3128,9 +3128,9 @@
           <attvalue for="homepage" value="https://www.genci.fr/fr"/>
           <attvalue for="name" value="Genci.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-596.6486" y="-478.85583"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-232.03238" y="-177.2387"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="175" label="Intelligence-Artificielle.gouv.fr">
         <attvalues>
@@ -3148,9 +3148,9 @@
           <attvalue for="homepage" value="https://www.intelligence-artificielle.gouv.fr/fr"/>
           <attvalue for="name" value="Intelligence-Artificielle.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="92.910904" y="-689.5099"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="43.791435" y="-261.50034"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="176" label="Etmaintenant-Lequestionnaire.fr">
         <attvalues>
@@ -3167,9 +3167,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Etmaintenant-Lequestionnaire.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="622.02045" y="-265.69177"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="255.43526" y="-91.973076"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="177" label="Euafrica-Permed.eu">
         <attvalues>
@@ -3186,9 +3186,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Euafrica-Permed.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-249.46922" y="200.87656"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-93.160614" y="94.65426"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="178" label="Isciii.es">
         <attvalues>
@@ -3205,9 +3205,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Isciii.es"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-806.7561" y="139.98524"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-316.07538" y="70.29774"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="179" label="Sumforest.org">
         <attvalues>
@@ -3224,9 +3224,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Sumforest.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-573.1772" y="-662.4124"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-222.6438" y="-250.66133"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="180" label="Forestvalue.org">
         <attvalues>
@@ -3243,9 +3243,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Forestvalue.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-467.4423" y="-26.284483"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-180.34984" y="3.789845"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="181" label="Osec2022.eu">
         <attvalues>
@@ -3262,9 +3262,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Osec2022.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="48.30101" y="261.03943"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="25.947477" y="118.71941"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="182" label="Franceculture.fr">
         <attvalues>
@@ -3281,9 +3281,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Franceculture.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="600.87714" y="413.96478"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="246.97794" y="179.88956"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="183" label="Wisg.fr">
         <attvalues>
@@ -3300,9 +3300,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Wisg.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-356.35477" y="449.61185"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-135.91484" y="194.14838"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="184" label="Anubis-Project.com">
         <attvalues>
@@ -3319,9 +3319,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Anubis-Project.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-167.48482" y="332.87842"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-60.36685" y="147.455"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="185" label="Usinenouvelle.com">
         <attvalues>
@@ -3338,9 +3338,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Usinenouvelle.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-197.82545" y="-366.58112"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-72.503105" y="-132.32881"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="186" label="F-R-D.fr">
         <attvalues>
@@ -3357,9 +3357,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="F-R-D.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-291.96317" y="408.37976"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-110.158195" y="177.65555"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="187" label="Invajo.com">
         <attvalues>
@@ -3376,9 +3376,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Invajo.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="34.575115" y="-736.7814"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="20.457119" y="-280.4089"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="188" label="Facebook.com /events">
         <attvalues>
@@ -3395,9 +3395,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Facebook.com /events"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="67.43753" y="524.2004"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="33.602085" y="223.9838"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="189" label="Jpi-Ch.eu">
         <attvalues>
@@ -3414,9 +3414,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jpi-Ch.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="525.24506" y="121.099915"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="216.7251" y="62.743603"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="190" label="Linkedin.com /.../icpermed-the-international-consortium-for-personalised-medicine">
         <attvalues>
@@ -3433,9 +3433,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Linkedin.com /.../icpermed-the-international-consortium-for-personalised-medicine"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-385.90945" y="521.0453"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-147.73671" y="222.72176"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="191" label="Twitter.com /ICPerMed">
         <attvalues>
@@ -3452,9 +3452,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Twitter.com /ICPerMed"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="317.72482" y="190.59428"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="133.71701" y="90.54135"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="192" label="Sargassum2019.com">
         <attvalues>
@@ -3471,9 +3471,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Sargassum2019.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-293.38345" y="-463.32224"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-110.72631" y="-171.02525"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="193" label="Ejprarediseases.org">
         <attvalues>
@@ -3491,9 +3491,9 @@
           <attvalue for="homepage" value="https://www.ejprarediseases.org"/>
           <attvalue for="name" value="Ejprarediseases.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="151.08878" y="516.7059"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="67.062584" y="220.986"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="194" label="Office.com">
         <attvalues>
@@ -3510,9 +3510,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Office.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-386.91846" y="-35.084873"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-148.1403" y="0.26968893"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="195" label="Irdirc.org">
         <attvalues>
@@ -3530,9 +3530,9 @@
           <attvalue for="homepage" value="https://irdirc.org"/>
           <attvalue for="name" value="Irdirc.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="199.7175" y="-270.20984"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="86.51408" y="-93.7803"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="196" label="Biodiversa.org">
         <attvalues>
@@ -3550,9 +3550,9 @@
           <attvalue for="homepage" value="https://www.biodiversa.org/2077"/>
           <attvalue for="name" value="Biodiversa.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-727.26825" y="148.53401"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-284.28024" y="73.71725"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="197" label="Etag.ee">
         <attvalues>
@@ -3569,9 +3569,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Etag.ee"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-138.28635" y="231.0504"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-48.687466" y="106.72381"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="198" label="List-Manage.com">
         <attvalues>
@@ -3588,9 +3588,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="List-Manage.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="304.52774" y="17.679811"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="128.43817" y="21.375563"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="199" label="Programmepause.fr">
         <attvalues>
@@ -3608,9 +3608,9 @@
           <attvalue for="homepage" value="http://www.programmepause.fr"/>
           <attvalue for="name" value="Programmepause.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-551.48236" y="402.6859"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-213.96587" y="175.378"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="200" label="Cihr-Irsc.gc.ca">
         <attvalues>
@@ -3627,9 +3627,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Cihr-Irsc.gc.ca"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="650.60114" y="314.8653"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="266.86752" y="140.24976"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="201" label="Gida-Global.org">
         <attvalues>
@@ -3647,9 +3647,9 @@
           <attvalue for="homepage" value="https://www.gida-global.org/care"/>
           <attvalue for="name" value="Gida-Global.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="38.47813" y="444.6001"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="22.018324" y="192.14368"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="202" label="Eepurl.com">
         <attvalues>
@@ -3667,9 +3667,9 @@
           <attvalue for="homepage" value="https://eepurl.com/hhtkpT"/>
           <attvalue for="name" value="Eepurl.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="215.04141" y="-341.59586"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="92.64364" y="-122.33471"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="203" label="Leap-Re.eu">
         <attvalues>
@@ -3686,9 +3686,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Leap-Re.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-476.21506" y="379.33594"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-183.85895" y="166.03801"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="204" label="College-De-France.fr">
         <attvalues>
@@ -3705,9 +3705,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="College-De-France.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="224.65457" y="379.93997"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="96.48891" y="166.27963"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="205" label="Neuron-Eranet.eu">
         <attvalues>
@@ -3724,9 +3724,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Neuron-Eranet.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="407.35873" y="-377.86414"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="169.57057" y="-136.84203"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="206" label="Dutpartnership.eu">
         <attvalues>
@@ -3744,9 +3744,9 @@
           <attvalue for="homepage" value="https://dutpartnership.eu"/>
           <attvalue for="name" value="Dutpartnership.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-548.5985" y="-536.2917"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-212.81233" y="-200.21304"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="207" label="Mur.gov.it">
         <attvalues>
@@ -3764,9 +3764,9 @@
           <attvalue for="homepage" value="https://water4all2022-submission.mur.gov.it"/>
           <attvalue for="name" value="Mur.gov.it"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-27.068798" y="-486.96448"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-4.2004466" y="-180.48216"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="208" label="Water4All-Partnership.eu">
         <attvalues>
@@ -3784,9 +3784,9 @@
           <attvalue for="homepage" value="https://www.water4all-partnership.eu"/>
           <attvalue for="name" value="Water4All-Partnership.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="67.00518" y="-379.28088"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="33.429146" y="-137.40872"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="209" label="Neurodegenerationresearch.eu">
         <attvalues>
@@ -3803,9 +3803,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Neurodegenerationresearch.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-100.1287" y="400.80396"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-33.424408" y="174.62523"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="210" label="Cetpartnership.eu">
         <attvalues>
@@ -3823,9 +3823,9 @@
           <attvalue for="homepage" value="https://cetpartnership.eu"/>
           <attvalue for="name" value="Cetpartnership.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="258.27643" y="-478.76627"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="109.937645" y="-177.20287"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="211" label="E-Rad.go.jp">
         <attvalues>
@@ -3843,9 +3843,9 @@
           <attvalue for="homepage" value="https://www.e-rad.go.jp"/>
           <attvalue for="name" value="E-Rad.go.jp"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-132.4936" y="-584.68964"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-46.370373" y="-219.57222"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="212" label="Ens.fr">
         <attvalues>
@@ -3862,9 +3862,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ens.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-698.2326" y="7.921469"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-272.666" y="17.472227"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="213" label="Anr-Preschool.prd.fr">
         <attvalues>
@@ -3882,9 +3882,9 @@
           <attvalue for="homepage" value="https://anr-preschool.prd.fr"/>
           <attvalue for="name" value="Anr-Preschool.prd.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-615.1741" y="-279.87927"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-239.44255" y="-97.64807"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="214" label="Mjt.lu">
         <attvalues>
@@ -3901,9 +3901,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Mjt.lu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-475.06808" y="-364.92078"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-183.40016" y="-131.66467"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="216" label="Destabilisation.org">
         <attvalues>
@@ -3920,9 +3920,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Destabilisation.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="455.50092" y="-62.510185"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="188.82744" y="-10.700436"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="217" label="Umr-Lisis.fr">
         <attvalues>
@@ -3939,9 +3939,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Umr-Lisis.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-172.01422" y="440.0179"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-62.178616" y="190.3108"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="218" label="Cea.fr">
         <attvalues>
@@ -3958,9 +3958,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Cea.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-693.61957" y="-762.91754"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-270.82077" y="-290.86337"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="219" label="Aal-Europe.eu">
         <attvalues>
@@ -3977,9 +3977,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Aal-Europe.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-192.07974" y="-448.12042"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-70.20483" y="-164.94453"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="220" label="Dfg.de">
         <attvalues>
@@ -3996,9 +3996,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Dfg.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-330.6674" y="339.35498"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-125.639885" y="150.04564"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="221" label="Suscrop.eu">
         <attvalues>
@@ -4015,9 +4015,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Suscrop.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="196.22902" y="-430.77115"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="85.11868" y="-158.00482"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="222" label="Faccejpi.net">
         <attvalues>
@@ -4034,9 +4034,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Faccejpi.net"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="74.55165" y="326.78363"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="36.447735" y="145.01709"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="223" label="Bfgo.org">
         <attvalues>
@@ -4053,9 +4053,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Bfgo.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-688.1652" y="215.5535"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-268.639" y="100.52504"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="224" label="Infect-Era.eu">
         <attvalues>
@@ -4072,9 +4072,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Infect-Era.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-553.6518" y="-322.29684"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-214.83365" y="-114.615105"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="225" label="Globallandproject.org">
         <attvalues>
@@ -4091,9 +4091,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Globallandproject.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-697.75977" y="-69.89832"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-272.47684" y="-13.655692"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="226" label="Pt-It.de">
         <attvalues>
@@ -4110,9 +4110,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Pt-It.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-218.57516" y="385.4734"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-80.80299" y="168.493"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="227" label="Igfagcr.org">
         <attvalues>
@@ -4129,9 +4129,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Igfagcr.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-598.42096" y="-206.82"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-232.74132" y="-68.42437"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="228" label="Cgiar.org">
         <attvalues>
@@ -4148,9 +4148,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Cgiar.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-671.4171" y="-234.91934"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-261.9398" y="-79.6641"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="229" label="Icsu.org">
         <attvalues>
@@ -4167,9 +4167,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Icsu.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="673.631" y="-614.9599"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="276.07947" y="-231.68033"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="230" label="Submission-Faccejpi.com">
         <attvalues>
@@ -4186,9 +4186,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Submission-Faccejpi.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="478.15756" y="230.9133"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="197.8901" y="106.66896"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="231" label="Erasynbio.eu">
         <attvalues>
@@ -4205,9 +4205,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Erasynbio.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="266.1147" y="-43.50608"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="113.07295" y="-3.098794"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="232" label="Anihwa-Submission-Era.net">
         <attvalues>
@@ -4224,9 +4224,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Anihwa-Submission-Era.net"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-279.76987" y="-843.0822"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-105.280876" y="-322.92926"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="233" label="Db-Ictagri.eu">
         <attvalues>
@@ -4243,9 +4243,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Db-Ictagri.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="53.099487" y="-457.76797"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="27.866867" y="-168.80356"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="234" label="Siinn.eu">
         <attvalues>
@@ -4262,9 +4262,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Siinn.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="680.1834" y="-692.0195"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="278.70044" y="-262.50415"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="235" label="Jp-Demographic.eu">
         <attvalues>
@@ -4281,9 +4281,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jp-Demographic.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-723.66876" y="-294.41614"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-282.84042" y="-103.46282"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="236" label="Jpi-Culturalheritage.eu">
         <attvalues>
@@ -4300,9 +4300,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jpi-Culturalheritage.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-377.40088" y="-594.6704"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-144.33328" y="-223.56453"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="237" label="Healthydietforhealthylife.eu">
         <attvalues>
@@ -4319,9 +4319,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Healthydietforhealthylife.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="415.4329" y="497.32904"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="172.80023" y="213.23526"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="238" label="Eranetmed.eu">
         <attvalues>
@@ -4338,9 +4338,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Eranetmed.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="328.68848" y="-214.05264"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="138.10246" y="-71.31742"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="239" label="Arimnet2.net">
         <attvalues>
@@ -4357,9 +4357,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Arimnet2.net"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="399.84692" y="205.64365"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="166.56584" y="96.5611"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="240" label="Projekt-Portal-Vditz.de">
         <attvalues>
@@ -4376,9 +4376,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Projekt-Portal-Vditz.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="242.65912" y="151.90337"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="103.69073" y="75.06499"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="241" label="Forschung-It-Sicherheit-Kommunikationssysteme.de">
         <attvalues>
@@ -4395,9 +4395,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Forschung-It-Sicherheit-Kommunikationssysteme.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-284.00522" y="-610.1585"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-106.97501" y="-229.75977"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="242" label="Travail.gouv.fr">
         <attvalues>
@@ -4414,9 +4414,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Travail.gouv.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-342.2941" y="-667.0832"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-130.29057" y="-252.52965"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="243" label="Ens-Lsh.fr">
         <attvalues>
@@ -4433,9 +4433,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ens-Lsh.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="3.257971" y="-663.1357"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="7.930261" y="-250.95064"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="244" label="Rntl.org">
         <attvalues>
@@ -4452,9 +4452,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Rntl.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="549.7236" y="248.6107"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="226.51651" y="113.747925"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="245" label="Anrt.asso.fr">
         <attvalues>
@@ -4471,9 +4471,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Anrt.asso.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-158.69333" y="-973.52466"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-56.850258" y="-375.10623"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="246" label="Loria.fr">
         <attvalues>
@@ -4490,9 +4490,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Loria.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-397.58685" y="211.3032"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-152.40767" y="98.82492"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="247" label="Labri.fr">
         <attvalues>
@@ -4509,9 +4509,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Labri.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-115.86385" y="494.62762"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-39.71847" y="212.1547"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="248" label="Rgcu.prd.fr">
         <attvalues>
@@ -4528,9 +4528,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Rgcu.prd.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-544.8927" y="-145.75693"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-211.33" y="-43.999134"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="249" label="Ejpsoil.eu">
         <attvalues>
@@ -4547,9 +4547,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ejpsoil.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-435.69113" y="-449.51065"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-167.64938" y="-165.50063"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="250" label="Ptj.de">
         <attvalues>
@@ -4566,9 +4566,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Ptj.de"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-308.27905" y="107.837524"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-116.68455" y="57.43865"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="251" label="Bbsrc.ac.uk">
         <attvalues>
@@ -4585,9 +4585,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Bbsrc.ac.uk"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-472.10733" y="-161.79846"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-182.21587" y="-50.41575"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="252" label="Heritageresearch-Hub.eu">
         <attvalues>
@@ -4604,9 +4604,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Heritageresearch-Hub.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="213.70358" y="220.42055"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="92.10851" y="102.47186"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="253" label="M-Era.net">
         <attvalues>
@@ -4623,9 +4623,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="M-Era.net"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="65.1678" y="-620.27625"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="32.694195" y="-233.80687"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="254" label="Gouv.qc.ca">
         <attvalues>
@@ -4642,9 +4642,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Gouv.qc.ca"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="367.0188" y="564.5035"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="153.4346" y="240.10503"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="255" label="Santepubliquefrance.fr">
         <attvalues>
@@ -4661,9 +4661,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Santepubliquefrance.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-479.14908" y="-290.02014"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-185.03256" y="-101.70442"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="256" label="Euronanomed.net">
         <attvalues>
@@ -4680,9 +4680,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Euronanomed.net"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-454.02585" y="-607.88434"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-174.98326" y="-228.8501"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="257" label="Bbc.co.uk">
         <attvalues>
@@ -4699,9 +4699,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Bbc.co.uk"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-235.72116" y="567.89386"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-87.66139" y="241.46118"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="258" label="Univ-Paris1.fr">
         <attvalues>
@@ -4719,9 +4719,9 @@
           <attvalue for="homepage" value="http://irice.univ-paris1.fr"/>
           <attvalue for="name" value="Univ-Paris1.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="717.4234" y="-544.7651"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="293.59644" y="-203.6024"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="259" label="Cambridge.org">
         <attvalues>
@@ -4738,9 +4738,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Cambridge.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-657.78046" y="-158.37903"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-256.4851" y="-49.047974"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="260" label="Brill.nl">
         <attvalues>
@@ -4757,9 +4757,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Brill.nl"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-651.8178" y="-344.1444"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-254.10005" y="-123.354126"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="261" label="divercropblog.Wordpress.com">
         <attvalues>
@@ -4776,9 +4776,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="divercropblog.Wordpress.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-831.7437" y="-65.08528"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-326.0704" y="-11.730474"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="262" label="Wiley.com">
         <attvalues>
@@ -4795,9 +4795,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Wiley.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="543.0103" y="-197.08475"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="223.8312" y="-64.530266"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="263" label="Drias-Climat.fr">
         <attvalues>
@@ -4814,9 +4814,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Drias-Climat.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="219.5049" y="-588.7339"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="94.42904" y="-221.18993"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="264" label="193.136.12.30 :3001">
         <attvalues>
@@ -4833,9 +4833,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="193.136.12.30 :3001"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="761.61066" y="-690.4233"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="311.27133" y="-261.8657"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="265" label="Clim2Power.com">
         <attvalues>
@@ -4852,9 +4852,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Clim2Power.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="719.3268" y="-259.42862"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="294.3578" y="-89.46781"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="266" label="Webservice-Energy.org">
         <attvalues>
@@ -4871,9 +4871,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Webservice-Energy.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="437.4206" y="-305.2696"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="181.59532" y="-107.8042"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="267" label="Climalert.eu">
         <attvalues>
@@ -4890,9 +4890,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Climalert.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="377.58066" y="-555.9804"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="157.65935" y="-208.08853"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="268" label="Jpi-Climate.eu">
         <attvalues>
@@ -4909,9 +4909,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jpi-Climate.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-623.9091" y="-733.31006"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-242.93657" y="-279.0204"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="269" label="Inseaption.eu">
         <attvalues>
@@ -4928,9 +4928,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Inseaption.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-553.289" y="258.14026"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-214.68852" y="117.559746"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="270" label="Climateservices.it">
         <attvalues>
@@ -4947,9 +4947,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Climateservices.it"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="416.75473" y="-492.44482"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="173.32896" y="-182.6743"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="271" label="Lth.se">
         <attvalues>
@@ -4966,9 +4966,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Lth.se"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-626.83" y="-413.1193"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-244.10493" y="-150.94408"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="272" label="Isipedia.org">
         <attvalues>
@@ -4985,9 +4985,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Isipedia.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="396.6388" y="-22.337337"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="165.2826" y="5.3687034"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="273" label="193.136.12.30 :8000">
         <attvalues>
@@ -5004,9 +5004,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="193.136.12.30 :8000"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-604.67316" y="-101.083755"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-235.24219" y="-26.129866"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="274" label="Servforfire-Era4Cs.eu">
         <attvalues>
@@ -5023,9 +5023,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Servforfire-Era4Cs.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="101.18555" y="128.06166"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="47.10129" y="65.528305"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="275" label="Brgm.fr">
         <attvalues>
@@ -5042,9 +5042,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Brgm.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-330.74142" y="-375.93073"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-125.669495" y="-136.06865"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="276" label="Redlosses.fr">
         <attvalues>
@@ -5061,9 +5061,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Redlosses.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="335.75037" y="-64.88871"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="140.92723" y="-11.651846"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="277" label="Plos.org">
         <attvalues>
@@ -5080,9 +5080,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Plos.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-375.5835" y="132.39731"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-143.60632" y="67.262566"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="278" label="Sciencedirect.com">
         <attvalues>
@@ -5099,9 +5099,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Sciencedirect.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="517.0931" y="-285.3363"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="213.46431" y="-99.83089"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="279" label="Biomedcentral.com">
         <attvalues>
@@ -5118,9 +5118,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Biomedcentral.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-4.785406" y="-409.3566"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="4.71291" y="-149.43901"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="280" label="Mdpi.com">
         <attvalues>
@@ -5137,9 +5137,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Mdpi.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="340.95688" y="-470.83844"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="143.00983" y="-174.03174"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="281" label="sites.Google.com /.../research">
         <attvalues>
@@ -5157,9 +5157,9 @@
           <attvalue for="homepage" value="https://sites.google.com/site/up8led/research/pub-econ"/>
           <attvalue for="name" value="sites.Google.com /.../research"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1122.7118" y="367.1421"/>
-        <viz:color r="11" g="37" b="255"/>
+        <viz:size value="4.0"/>
+        <viz:position x="455.71176" y="161.16048"/>
+        <viz:color r="29" g="40" b="255"/>
       </node>
       <node id="282" label="Repec.org">
         <attvalues>
@@ -5176,9 +5176,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Repec.org"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1006.7006" y="343.1531"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="409.30734" y="151.56488"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="283" label="Researchgate.net">
         <attvalues>
@@ -5195,9 +5195,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Researchgate.net"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1369.1522" y="192.56393"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="554.28796" y="91.329216"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="284" label="Carbonnier.eu">
         <attvalues>
@@ -5214,9 +5214,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Carbonnier.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1536.0011" y="399.2347"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="621.0275" y="173.99753"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="285" label="Routledge.com">
         <attvalues>
@@ -5233,9 +5233,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Routledge.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1435.236" y="234.98965"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="580.72144" y="108.2995"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="286" label="Bouacida.fr">
         <attvalues>
@@ -5252,9 +5252,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Bouacida.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1612.3652" y="447.8061"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="651.5732" y="193.42607"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="287" label="Insosci.eu">
         <attvalues>
@@ -5271,9 +5271,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Insosci.eu"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1536.441" y="484.97754"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="621.2035" y="208.29466"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="288" label="Jacques-Pelletan.com">
         <attvalues>
@@ -5290,9 +5290,9 @@
           <attvalue for="pages_crawled" value="0"/>
           <attvalue for="name" value="Jacques-Pelletan.com"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1321.1246" y="252.82986"/>
-        <viz:color r="83" g="205" b="0"/>
+        <viz:size value="4.0"/>
+        <viz:position x="535.0769" y="115.435585"/>
+        <viz:color r="5" g="255" b="115"/>
       </node>
       <node id="1" label="Anr.fr">
         <attvalues>
@@ -5310,9 +5310,9 @@
           <attvalue for="homepage" value="https://anr.fr"/>
           <attvalue for="name" value="Anr.fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-122.78622" y="-71.31907"/>
-        <viz:color r="11" g="37" b="255"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-42.487415" y="-14.22399"/>
+        <viz:color r="29" g="40" b="255"/>
       </node>
       <node id="2" label="commission.Europa.eu /research-and-innovation_fr">
         <attvalues>
@@ -5329,9 +5329,9 @@
           <attvalue for="pages_crawled" value="1"/>
           <attvalue for="name" value="commission.Europa.eu /research-and-innovation_fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-819.4626" y="988.11743"/>
-        <viz:color r="11" g="37" b="255"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-321.15796" y="409.55063"/>
+        <viz:color r="29" g="40" b="255"/>
       </node>
       <node id="3" label="sites.Google.com /.../ ?pli=1">
         <attvalues>
@@ -5348,9 +5348,9 @@
           <attvalue for="pages_crawled" value="1"/>
           <attvalue for="name" value="sites.Google.com /.../ ?pli=1"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="1197.0228" y="586.568"/>
-        <viz:color r="11" g="37" b="255"/>
+        <viz:size value="4.0"/>
+        <viz:position x="485.4362" y="248.93083"/>
+        <viz:color r="29" g="40" b="255"/>
       </node>
       <node id="4" label="european-union.Europa.eu /.../funding-grants-subsidies_fr">
         <attvalues>
@@ -5367,9 +5367,9 @@
           <attvalue for="pages_crawled" value="1"/>
           <attvalue for="name" value="european-union.Europa.eu /.../funding-grants-subsidies_fr"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="-907.5743" y="1126.4323"/>
-        <viz:color r="11" g="37" b="255"/>
+        <viz:size value="4.0"/>
+        <viz:position x="-356.40265" y="464.87656"/>
+        <viz:color r="29" g="40" b="255"/>
       </node>
       <node id="5" label="Hal.science /.../author-structure">
         <attvalues>
@@ -5387,9 +5387,9 @@
           <attvalue for="homepage" value="https://hal.science/LED/browse/author-structure"/>
           <attvalue for="name" value="Hal.science /.../author-structure"/>
         </attvalues>
-        <viz:size value="10.0"/>
-        <viz:position x="306.96317" y="1110.1143"/>
-        <viz:color r="11" g="37" b="255"/>
+        <viz:size value="4.0"/>
+        <viz:position x="129.41234" y="458.34937"/>
+        <viz:color r="29" g="40" b="255"/>
       </node>
     </nodes>
     <edges>
