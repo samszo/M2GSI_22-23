@@ -4,14 +4,20 @@ body{
     font-size: 12px; 
 }
 
+
 h1{
     text-align: center;
     background-color: #3a5da5;
     color: white;
     font-size: 20px;
- }
+    border: solid 2px white;
+    border-radius: 20%;
+}
 h2{
     background-color:#6fa0fd;
     border: solid 2px white;
+    border-radius: 20%;
+    color: white;
     padding: 18px;     
+    text-align: center;
 }
