@@ -1,0 +1,24 @@
+body{
+    background-color: #b1ecf9;
+    font-family: Arial, sans-serif;
+    font-size: 12px; 
+}
+
+
+
+h1{
+    justify-content: center;
+    background-color: #3a5da5;
+    color: white;
+    font-size: 20px;;
+    border: solid 2px white;
+    border-radius: 50%;
+}
+h2{
+    background-color:#6fa0fd;
+    border: solid 2px white;
+    border-radius: 50%;
+    color: white;
+    padding: 18px;     
+}
+
