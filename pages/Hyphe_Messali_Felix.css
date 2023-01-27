@@ -1,0 +1,29 @@
+body{
+    background-color: #b1ecf9;
+    font-family: Arial;
+    font-size: 12px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+
+h1{
+    text-align: center;
+    background-color: #3a5da5;
+    color: white;
+    font-size: 20px;
+    border: solid 2px white;
+    border-radius: 30%;
+    padding: 20px;
+}
+h2{
+    background-color:#6fa0fd;
+    border: solid 2px white;
+    border-radius: 30%;
+    color: white;
+    padding: 18px;     
+    text-align: center;
+}
