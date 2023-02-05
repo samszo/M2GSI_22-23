@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2023-02-05">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="status" title="status" type="string"/>
+      <attribute id="pages_total" title="pages_total" type="integer"/>
+      <attribute id="undirected_degree" title="undirected_degree" type="integer"/>
+      <attribute id="crawling_status" title="crawling_status" type="string"/>
+      <attribute id="indegree" title="indegree" type="integer"/>
+      <attribute id="outdegree" title="outdegree" type="integer"/>
+      <attribute id="creation_date" title="creation_date" type="double"/>
+      <attribute id="indexing_status" title="indexing_status" type="string"/>
+      <attribute id="crawled" title="crawled" type="boolean"/>
+      <attribute id="last_modification_date" title="last_modification_date" type="double"/>
+      <attribute id="pages_crawled" title="pages_crawled" type="integer"/>
+      <attribute id="homepage" title="homepage" type="string"/>
+      <attribute id="name" title="name" type="string"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="count" title="count" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="5" label="Huma-Num.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1415"/>
+          <attvalue for="undirected_degree" value="185"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="181"/>
+          <attvalue for="creation_date" value="1.675112130845E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141597E12"/>
+          <attvalue for="pages_crawled" value="185"/>
+          <attvalue for="homepage" value="https://documentation.huma-num.fr"/>
+          <attvalue for="name" value="Huma-Num.fr"/>
+        </attvalues>
+        <viz:size value="11.550949"/>
+        <viz:position x="163.28967" y="-63.06761"/>
+        <viz:color r="65" g="223" b="0"/>
+      </node>
+      <node id="10" label="Univ-Paris8.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="9995"/>
+          <attvalue for="undirected_degree" value="563"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="4"/>
+          <attvalue for="outdegree" value="560"/>
+          <attvalue for="creation_date" value="1.675112131905E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141685E12"/>
+          <attvalue for="pages_crawled" value="772"/>
+          <attvalue for="homepage" value="https://www.univ-paris8.fr"/>
+          <attvalue for="name" value="Univ-Paris8.fr"/>
+        </attvalues>
+        <viz:size value="20.961939"/>
+        <viz:position x="-186.80331" y="-126.62875"/>
+        <viz:color r="0" g="211" b="125"/>
+      </node>
+      <node id="1" label="Adho.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="655"/>
+          <attvalue for="undirected_degree" value="178"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="178"/>
+          <attvalue for="creation_date" value="1.675112130741E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141508E12"/>
+          <attvalue for="pages_crawled" value="108"/>
+          <attvalue for="homepage" value="https://adho.org"/>
+          <attvalue for="name" value="Adho.org"/>
+        </attvalues>
+        <viz:size value="10.717341"/>
+        <viz:position x="521.6981" y="2.1763644"/>
+        <viz:color r="0" g="139" b="223"/>
+      </node>
+      <node id="2" label="Crihn.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="2147"/>
+          <attvalue for="undirected_degree" value="138"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="137"/>
+          <attvalue for="creation_date" value="1.675112130831E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141501E12"/>
+          <attvalue for="pages_crawled" value="442"/>
+          <attvalue for="homepage" value="https://www.crihn.org"/>
+          <attvalue for="name" value="Crihn.org"/>
+        </attvalues>
+        <viz:size value="12.353845"/>
+        <viz:position x="386.72488" y="-117.22593"/>
+        <viz:color r="230" g="177" b="0"/>
+      </node>
+      <node id="3" label="Fmsh.fr">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="18235"/>
+          <attvalue for="undirected_degree" value="247"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="247"/>
+          <attvalue for="creation_date" value="1.675112130836E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141518E12"/>
+          <attvalue for="pages_crawled" value="986"/>
+          <attvalue for="homepage" value="https://www.fmsh.fr/fr"/>
+          <attvalue for="name" value="Fmsh.fr"/>
+        </attvalues>
+        <viz:size value="30.0"/>
+        <viz:position x="-36.87977" y="-87.70284"/>
+        <viz:color r="255" g="94" b="135"/>
+      </node>
+      <node id="4" label="Eadh.org">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1927"/>
+          <attvalue for="undirected_degree" value="438"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="1"/>
+          <attvalue for="outdegree" value="438"/>
+          <attvalue for="creation_date" value="1.675112130838E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141589E12"/>
+          <attvalue for="pages_crawled" value="512"/>
+          <attvalue for="homepage" value="https://eadh.org"/>
+          <attvalue for="name" value="Eadh.org"/>
+        </attvalues>
+        <viz:size value="12.112537"/>
+        <viz:position x="411.7631" y="63.47384"/>
+        <viz:color r="255" g="106" b="0"/>
+      </node>
+      <node id="6" label="Lutin-Userlab.fr /.../english">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="7"/>
+          <attvalue for="undirected_degree" value="3"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="3"/>
+          <attvalue for="creation_date" value="1.675112130851E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141599E12"/>
+          <attvalue for="pages_crawled" value="2"/>
+          <attvalue for="name" value="Lutin-Userlab.fr /.../english"/>
+        </attvalues>
+        <viz:size value="10.006581"/>
+        <viz:position x="-298.63525" y="793.6476"/>
+        <viz:color r="0" g="97" b="72"/>
+      </node>
+      <node id="7" label="Univ-Paris8.fr /.../ ?ur-centre-d-etudes-sur-les-medias-les-technologies-et-l-internationalisation">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="7"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="7"/>
+          <attvalue for="creation_date" value="1.675112131833E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141632E12"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="Univ-Paris8.fr /.../ ?ur-centre-d-etudes-sur-les-medias-les-technologies-et-l-internationalisation"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-262.05356" y="-300.81058"/>
+        <viz:color r="123" g="55" b="29"/>
+      </node>
+      <node id="8" label="Univ-Paris8.fr /.../ ?ur-centre-de-recherches-et-d-analyses-geopolitiques-ifg-lab-research-unit">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="10"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="10"/>
+          <attvalue for="creation_date" value="1.675112131879E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.67511214165E12"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="Univ-Paris8.fr /.../ ?ur-centre-de-recherches-et-d-analyses-geopolitiques-ifg-lab-research-unit"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-326.8346" y="2.4988475"/>
+        <viz:color r="255" g="179" b="255"/>
+      </node>
+      <node id="9" label="Univ-Paris8.fr /.../ ?ur-laboratoire-paragraphe">
+        <attvalues>
+          <attvalue for="status" value="IN"/>
+          <attvalue for="pages_total" value="1"/>
+          <attvalue for="undirected_degree" value="9"/>
+          <attvalue for="crawling_status" value="FINISHED"/>
+          <attvalue for="indegree" value="0"/>
+          <attvalue for="outdegree" value="9"/>
+          <attvalue for="creation_date" value="1.675112131898E12"/>
+          <attvalue for="indexing_status" value="FINISHED"/>
+          <attvalue for="crawled" value="true"/>
+          <attvalue for="last_modification_date" value="1.675112141666E12"/>
+          <attvalue for="pages_crawled" value="1"/>
+          <attvalue for="name" value="Univ-Paris8.fr /.../ ?ur-laboratoire-paragraphe"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-372.2693" y="-166.36095"/>
+        <viz:color r="0" g="236" b="255"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="4>1" source="4" target="1">
+        <viz:color r="76" g="70" b="62"/>
+        <attvalues>
+          <attvalue for="count" value="9"/>
+        </attvalues>
+      </edge>
+      <edge id="1>2" source="1" target="2">
+        <viz:color r="115" g="192" b="0"/>
+        <attvalues>
+          <attvalue for="count" value="2"/>
+        </attvalues>
+      </edge>
+      <edge id="10>3" source="10" target="3">
+        <viz:color r="223" g="137" b="255"/>
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="1>4" source="1" target="4">
+        <viz:color r="255" g="136" b="5"/>
+        <attvalues>
+          <attvalue for="count" value="10"/>
+        </attvalues>
+      </edge>
+      <edge id="2>5" source="2" target="5">
+        <viz:color r="223" g="137" b="255"/>
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="3>5" source="3" target="5">
+        <viz:color r="223" g="137" b="255"/>
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="4>5" source="4" target="5">
+        <viz:color r="0" g="196" b="255"/>
+        <attvalues>
+          <attvalue for="count" value="5"/>
+        </attvalues>
+      </edge>
+      <edge id="10>5" source="10" target="5">
+        <viz:color r="223" g="137" b="255"/>
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="3>10" source="3" target="10">
+        <viz:color r="223" g="137" b="255"/>
+        <attvalues>
+          <attvalue for="count" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="7>10" source="7" target="10">
+        <viz:color r="0" g="189" b="148"/>
+        <attvalues>
+          <attvalue for="count" value="20"/>
+        </attvalues>
+      </edge>
+      <edge id="8>10" source="8" target="10">
+        <viz:color r="255" g="85" b="132"/>
+        <attvalues>
+          <attvalue for="count" value="17"/>
+        </attvalues>
+      </edge>
+      <edge id="9>10" source="9" target="10">
+        <viz:color r="211" g="179" b="176"/>
+        <attvalues>
+          <attvalue for="count" value="21"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
